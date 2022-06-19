@@ -1,0 +1,7 @@
+/* headings and logo in body header */
+
+#logo {
+    float: left;
+    font-size: 200%;
+    margin: 25px;
+}
