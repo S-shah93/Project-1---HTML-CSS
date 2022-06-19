@@ -26,3 +26,9 @@ h1 {
     margin-right: 25px;
     list-style-type: none;
 }
+
+#hero-section {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+}
