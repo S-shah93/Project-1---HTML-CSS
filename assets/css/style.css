@@ -5,3 +5,20 @@
     font-size: 200%;
     margin: 25px;
 }
+
+/* navigation links */
+
+#menu {
+    font-size: 130%;
+    letter-spacing: 5px;
+}
+
+#menu, #logo {
+    line-height: 100px;
+}
+
+#menu li {
+    float: right;
+    margin-right: 25px;
+    list-style-type: none;
+}
