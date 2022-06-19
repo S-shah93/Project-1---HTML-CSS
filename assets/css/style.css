@@ -1,5 +1,9 @@
 /* headings and logo in body header */
 
+h1 {
+    text-transform: uppercase;
+}
+
 #logo {
     float: left;
     font-size: 200%;
@@ -14,7 +18,7 @@
 }
 
 #menu, #logo {
-    line-height: 100px;
+    line-height: 75px;
 }
 
 #menu li {
