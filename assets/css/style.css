@@ -22,7 +22,7 @@ h1 {
 /* navigation links */
 
 #menu {
-    font-size: 130%;
+    font-size: 150%;
     letter-spacing: 4px;
     line-height: 120px;
 }
@@ -33,7 +33,7 @@ h1 {
 
 #menu li {
     float: right;
-    margin-right: 10px, 50px 10px;
+    margin-right: 30px;
     list-style-type: none;
 }
 
