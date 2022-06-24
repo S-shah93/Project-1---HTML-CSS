@@ -81,7 +81,6 @@ h1 {
     padding-left: 10px;
 
     background-color: rgba(0, 0, 0, 0.79);
-    
 
     bottom: 100px;
     left: 110px;
@@ -91,5 +90,5 @@ h1 {
 
 #hero-cover-text h2, h3 {
     color: aliceblue;
-    
+    text-align: center;
 }
