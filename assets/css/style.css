@@ -118,11 +118,15 @@ h1 {
    
 }
 
-#table-top, tr, th {
-    border: 2px solid gold;
-
-    width: 50%;
+#table-top {
+   
+    width: 90%;
     margin: 40px 30px;
+}
+
+#table-top tr th {
+    border: 0.5px solid gold;
+    padding: 4px;
 }
 
 /*hp information bottom left*/
