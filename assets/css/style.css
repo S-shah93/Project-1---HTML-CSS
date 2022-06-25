@@ -118,8 +118,6 @@ h1 {
    
 }
 
-/* hp information top tables */
-
 #table-top, tr, th {
     border: 2px solid gold;
 
@@ -146,6 +144,8 @@ h1 {
     border: 2px solid #ffbf00;
     box-sizing: border-box;
 }
+
+
 
 /*
 #entry-requirements-left {
