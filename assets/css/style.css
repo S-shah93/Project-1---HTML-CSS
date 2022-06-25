@@ -128,13 +128,15 @@ h1 {
 
 
 
-#hp-information-bottom {
+#hp-information-bottom-left {
     height: 300px;
     width: 100%;
     background-color: #535353;
 }
 
-#hp-information-bottom div {
+
+
+#hp-information-bottom-left div {
     color: #fafafa;
     width: 50%;
     height: 300px;
@@ -145,7 +147,40 @@ h1 {
     box-sizing: border-box;
 }
 
+#hp-information-bottom-left ul {
+ 
+    margin-left: 80px;
+    padding: 2px;
+    text-align: left;
+    font-size: 110%;
+}
 
+#hp-information-bottom-left p {
+ 
+    margin-left: 80px;
+    padding: 2px;
+    text-align: left;
+    font-size: 110%;
+}
+
+#hp-information-bottom-left {
+    height: 300px;
+    width: 100%;
+    background-color: #535353;
+}
+
+
+
+#hp-information-bottom-right div {
+    color: #fafafa;
+    width: 50%;
+    height: 300px;
+    float: left;
+    padding-top: 0px;
+    text-align: center;
+    border: 2px solid #ffbf00;
+    box-sizing: border-box;
+}
 
 /*
 #entry-requirements-left {
