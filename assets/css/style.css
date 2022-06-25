@@ -118,6 +118,18 @@ h1 {
    
 }
 
+/* hp information top tables */
+
+#table-top, tr, th {
+    border: 2px solid gold;
+
+    width: 50%;
+    margin: 40px 30px;
+}
+
+
+
+
 #hp-information-bottom {
     height: 300px;
     width: 100%;
