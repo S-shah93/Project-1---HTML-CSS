@@ -93,7 +93,7 @@ h1 {
     text-align: center;
 }
 
-/* home page information */
+/* home page information top*/
 
 #hp-information-top {
     height: 600px;
@@ -125,7 +125,7 @@ h1 {
     margin: 40px 30px;
 }
 
-
+/*hp information bottom left*/
 
 
 #hp-information-bottom-left {
@@ -163,12 +163,13 @@ h1 {
     font-size: 110%;
 }
 
-#hp-information-bottom-left {
+/*hp information bottom right*/
+
+#hp-information-bottom-right {
     height: 300px;
     width: 100%;
     background-color: #535353;
 }
-
 
 
 #hp-information-bottom-right div {
@@ -180,6 +181,14 @@ h1 {
     text-align: center;
     border: 2px solid #ffbf00;
     box-sizing: border-box;
+}
+
+#hp-information-bottom-right p {
+ 
+    margin: 20px 0px 0px 80px;
+    padding: 2px;
+    text-align: left;
+    font-size: 110%;
 }
 
 /*
