@@ -191,18 +191,17 @@ h1 {
     font-size: 110%;
 }
 
-/*
-#entry-requirements-left {
-    height: 300px;
-    width: 50%;
-    background-color: #535353;
 
-    padding-top: 600px;
+/* footer */
+
+#hp-footer{
+    color: #fafafa;
+    background-color: rgb(41, 41, 41);
+    text-align: center;
+    margin-top: 10px;
+    font-size: 140%;
 }
 
-#entry-requirements-right {
-    height: 300px;
-    width: 50%;
-    background-color: #535353;
+#hp-footer a {
+    border: 4px solid green;
 }
-*/
