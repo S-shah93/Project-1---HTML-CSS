@@ -1,9 +1,18 @@
-/* headings and logo in body header */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Overlock:wght@700&display=swap');
+
 
 * {
     margin: 0;
     padding: 0;
     border: none;
+}
+
+/* headings and logo in body header */
+
+body {
+    font-family: overlock, lato;
+    font-weight: 700;
+    color: #927c00;
 }
 
 h1 {
@@ -207,7 +216,7 @@ h1 {
 
 #hp-footer a {
     
-    color: #fafafa;
+    color: #927c00;
     text-decoration: none;
 }
 #hp-footer a:hover {
