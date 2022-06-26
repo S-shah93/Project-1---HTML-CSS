@@ -258,7 +258,7 @@ h1 {
     height: 350px;
     width: 95%;
     margin-left: 2.5%;
-    background-color:  #FFFDD0;
+    background-color:  black;
     word-spacing: 2px;
     font-size: 120%;
 }
@@ -275,9 +275,9 @@ h1 {
     width: 50%;
     font-size: 98%;
     float: left;
-    border: 1.5px solid #3a3a3a;
+    border: 2px solid #ffbf00;
     box-sizing: border-box;
-    background-color:  #FFFDD0;
+
 }
 
 #guide-apply-info li {
@@ -307,11 +307,16 @@ h1 {
     height: 350px;
     width: 50%;
     float: right;
-    border: 1.5px solid #3a3a3a;
+    border: 2px solid #ffbf00;
     box-sizing: border-box;
     background-color:  #FFFDD0;
     text-align: center;
     font-size: 250%;
+}
+
+#guide-apply-picture a {
+    color: inherit;
+    text-decoration: none;
 }
 
 /* guide travel */
@@ -321,7 +326,7 @@ h1 {
     height: 250px;
     width: 95%;
     margin-left: 2.5%;
-    background-color:  #FFFDD0;
+    background-color:  black;
     word-spacing: 2px;
     font-size: 25px;
 }
@@ -337,9 +342,14 @@ h1 {
     height: 250px;
     width: 50%;
     float: left;
-    border: 1.5px solid #3a3a3a;
+    border: 2px solid #ffbf00;
     box-sizing: border-box;
     background-color:  #FFFDD0;
+}
+
+#guide-travel-picture a {
+    color: inherit;
+    text-decoration: none;
 }
 
 /* guide travel right */
@@ -356,9 +366,9 @@ h1 {
     float: right;
     font-size: 100%;
     text-align: center;
-    border: 1.5px solid #3a3a3a;
+    border: 2px solid #ffbf00;
     box-sizing: border-box;
-    background-color:  #FFFDD0;
+    background-color:  black;
 }
 
 
@@ -370,7 +380,7 @@ h1 {
     height: 250px;
     width: 95%;
     margin-left: 2.5%;
-    background-color:  #FFFDD0;
+    background-color:  black;
     word-spacing: 2px;
     font-size: 25px;
 }
@@ -386,9 +396,9 @@ h1 {
     height: 250px;
     width: 50%;
     float: left;
-    border: 1.5px solid #3a3a3a;
+    border: 2px solid #ffbf00;
     box-sizing: border-box;
-    background-color:  #FFFDD0;
+    background-color:  black;
 }
 
 #guide-sleep-heading-right {
@@ -401,11 +411,16 @@ h1 {
     height: 250px;
     width: 50%;
     float: right;
-    border: 1.5px solid #3a3a3a;
+    border: 2px solid #ffbf00;
     box-sizing: border-box;
     background-color:  #FFFDD0;
     text-align: center;
     font-size: 220%;
+}
+
+#guide-sleep-picture a {
+    color: inherit;
+    text-decoration: none;
 }
 
 /* guide page photos section */
