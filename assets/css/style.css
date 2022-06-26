@@ -239,19 +239,7 @@ h1 {
 
 /* guide page */
 
-/* guide apply */
-
-.guide-heading-left {
-    font-size: 170%;
-    text-align: center;
-    margin: 25px;
-}
-
-.guide-heading-right {
-    font-size: 175%;
-    text-align: center;
-    margin: 50px;
-}
+/* guide apply left */
 
 #guide-apply {
     clear: both;
@@ -262,19 +250,17 @@ h1 {
     font-size: 120%;
 }
 
+.guide-heading-left {
+    font-size: 170%;
+    text-align: center;
+    margin: 25px;
+}
+
 #guide-apply-info {
     height: 400px;
     width: 50%;
     float: left;
     background-color:  #FFFDD0;
-}
-#guide-apply-picture {
-    height: 400px;
-    width: 50%;
-    float: right;
-    background-color:  #FFFDD0;
-    text-align: center;
-    font-size: 250%;
 }
 
 #guide-apply-info li {
@@ -290,5 +276,22 @@ h1 {
 
 #guide-apply-info ul {
     margin-left: 10px; 
+}
+
+/* guide apply right */
+
+.guide-heading-right {
+    font-size: 175%;
+    text-align: center;
+    margin: 50px;
+}
+
+#guide-apply-picture {
+    height: 400px;
+    width: 50%;
+    float: right;
+    background-color:  #FFFDD0;
+    text-align: center;
+    font-size: 250%;
 }
 
