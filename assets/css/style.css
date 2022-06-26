@@ -236,3 +236,30 @@ h1 {
 #hp-footer a:hover {
     background-color: black;
 }
+
+/* guide page */
+
+.guide-heading {
+    font-size: 200%;
+}
+
+#guide-apply {
+    clear: both;
+    height: 400px;
+    width: 100%;
+    background-color:  #FFFDD0;
+}
+
+#guide-apply-info {
+    height: 400px;
+    width: 50%;
+    float: left;
+    background-color:  #FFFDD0;
+}
+#guide-apply-picture {
+    height: 400px;
+    width: 50%;
+    float: right;
+    background-color:  #FFFDD0;
+}
+
