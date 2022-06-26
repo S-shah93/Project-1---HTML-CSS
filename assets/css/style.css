@@ -505,6 +505,23 @@ h1 {
     border-color: #ff0101;
 }
 
+.join-button {
+    margin-top: 20px;
+    margin-left: 15px;
+    border-radius: 2px;
+    padding: 15px 32px 15px 32px;
+    text-align: center;
+    font-size: 140%;
+    background-color: #ffbf00;
+    color: #fafafa;
+    display: block;
+}
+
+.join-button:hover {
+    background-color: #fafafa;
+    color: #ffbf00;
+}
+
 
 /* media queries */
 
