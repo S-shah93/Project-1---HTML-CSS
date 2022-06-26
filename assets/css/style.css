@@ -465,20 +465,27 @@ h1 {
     background-color: #fafafa;
 }
 
+.signup-form {
+    clear: both;
+}
+
+
+
+
 /* media queries */
 
 /* For larger to medium screens size from 1200px wide and down */
 
+/* will come back to this later */
 @media screen and (max-width: 1200px) {
     #hp-information-top {
-        width: 75%;
+        width: 100%;
         height: 1200px;
         margin: 0 auto;
     }
 
     #hp-information-bottom-left {
-        clear: both;
-        width: 75%;
+        width: 100%;
         height: 1200px;
         margin: 0 auto;
     }
