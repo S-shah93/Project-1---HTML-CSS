@@ -303,7 +303,8 @@ h1 {
 #guide-travel {
   
     height: 300px;
-    width: 100%;
+    width: 90%;
+    margin-left: 5%;
     background-color:  #FFFDD0;
     word-spacing: 2px;
     font-size: 120%;
