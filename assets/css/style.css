@@ -239,8 +239,6 @@ h1 {
 
 /* guide page */
 
-/* guide apply left */
-
 #guide-apply {
     clear: both;
     height: 400px;
@@ -249,6 +247,7 @@ h1 {
     word-spacing: 2px;
     font-size: 120%;
 }
+/* guide apply left */
 
 .guide-heading-left {
     font-size: 170%;
@@ -260,6 +259,8 @@ h1 {
     height: 400px;
     width: 50%;
     float: left;
+    border: 1.5px solid #3a3a3a;
+    box-sizing: border-box;
     background-color:  #FFFDD0;
 }
 
@@ -290,6 +291,8 @@ h1 {
     height: 400px;
     width: 50%;
     float: right;
+    border: 1.5px solid #3a3a3a;
+    box-sizing: border-box;
     background-color:  #FFFDD0;
     text-align: center;
     font-size: 250%;
