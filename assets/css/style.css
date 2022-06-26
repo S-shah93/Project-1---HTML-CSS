@@ -465,8 +465,20 @@ h1 {
     background-color: #fafafa;
 }
 
+/* form */
+.form-section {
+    clear: left;
+    background-color: #3a3a3a;
+    background-size: cover;
+    background-position: center;
+    height: 700px;
+}
+
 .signup-form {
-    clear: both;
+    margin: 150px 10% 0 0;
+    color: black;
+   
+    
 }
 
 
