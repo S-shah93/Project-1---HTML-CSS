@@ -241,8 +241,9 @@ h1 {
 
 #guide-apply {
     clear: both;
-    height: 400px;
-    width: 100%;
+    height: 350px;
+    width: 95%;
+    margin-left: 2.5%;
     background-color:  #FFFDD0;
     word-spacing: 2px;
     font-size: 120%;
@@ -250,14 +251,15 @@ h1 {
 /* guide apply left */
 
 #guide-apply-heading-left {
-    font-size: 170%;
+    font-size: 180%;
     text-align: center;
     margin: 25px;
 }
 
 #guide-apply-info {
-    height: 400px;
+    height: 350px;
     width: 50%;
+    font-size: 98%;
     float: left;
     border: 1.5px solid #3a3a3a;
     box-sizing: border-box;
@@ -271,7 +273,7 @@ h1 {
 #guide-apply-info p {
     text-align: left;
     margin-left: 50px;
-    margin-top: 25px;
+    margin-top: 15px;
 
 }
 
@@ -282,13 +284,13 @@ h1 {
 /* guide apply right */
 
 #guide-apply-heading-right {
-    font-size: 175%;
+    font-size: 135%;
     text-align: center;
-    margin: 50px;
+    margin: 85px;
 }
 
 #guide-apply-picture {
-    height: 400px;
+    height: 350px;
     width: 50%;
     float: right;
     border: 1.5px solid #3a3a3a;
@@ -302,12 +304,12 @@ h1 {
 
 #guide-travel {
   
-    height: 300px;
-    width: 90%;
-    margin-left: 5%;
+    height: 250px;
+    width: 95%;
+    margin-left: 2.5%;
     background-color:  #FFFDD0;
     word-spacing: 2px;
-    font-size: 120%;
+    font-size: 25px;
 }
 
 /* guide travel left */
@@ -318,7 +320,7 @@ h1 {
     margin-top: 100px;
 }
 #guide-travel-picture {
-    height: 300px;
+    height: 250px;
     width: 50%;
     float: left;
     border: 1.5px solid #3a3a3a;
@@ -328,37 +330,42 @@ h1 {
 
 /* guide travel right */
 
+#guide-travel-heading-right {
+    font-size: 200%;
+    text-align: center;
+    margin-top: 50px;
+}
+
 #guide-travel-info {
-    height: 300px;
+    height: 250px;
     width: 50%;
     float: right;
+    font-size: 100%;
     text-align: center;
     border: 1.5px solid #3a3a3a;
     box-sizing: border-box;
     background-color:  #FFFDD0;
 }
 
-#guide-travel-heading-right {
-    font-size: 250%;
-    text-align: center;
-    margin-top: 100px;
-}
 
+
+/* guide sleep */
 
 #guide-sleep {
     clear: both;
-    height: 200px;
-    width: 100%;
+    height: 250px;
+    width: 95%;
+    margin-left: 2.5%;
     background-color:  #FFFDD0;
     word-spacing: 2px;
-    font-size: 120%;
+    font-size: 25px;
 }
-/* guide apply left */
+/* guide sleep left */
 
 #guide-sleep-heading-left {
-    font-size: 250%;
+    font-size: 200%;
     text-align: center;
-    margin: 25px;
+    margin: 55px;
 }
 
 #guide-sleep-info {
@@ -387,12 +394,12 @@ h1 {
 
 */
 
-/* guide apply right */
+/* guide sleep right */
 
 #guide-sleep-heading-right {
-    font-size: 100%;
+    font-size: 110%;
     text-align: center;
-    margin: 50px;
+    margin: 80px;
 }
 
 #guide-sleep-picture {
@@ -403,5 +410,5 @@ h1 {
     box-sizing: border-box;
     background-color:  #FFFDD0;
     text-align: center;
-    font-size: 250%;
+    font-size: 220%;
 }
