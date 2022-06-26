@@ -134,6 +134,7 @@ h1 {
     float: left;
  
     text-align: center;
+    padding-top: 15px;
 
     border: 3px solid #ffbf00;
     box-sizing: border-box;
@@ -141,10 +142,16 @@ h1 {
    
 }
 
+/* table home page */
+
 #table-top {
    
     width: 90%;
-    margin: 40px 30px;
+    margin: 10px 30px;
+}
+
+#table p {
+    padding-top: 10px;
 }
 
 #table-top tr th {
