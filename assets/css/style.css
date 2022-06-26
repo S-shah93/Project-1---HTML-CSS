@@ -249,7 +249,7 @@ h1 {
 }
 /* guide apply left */
 
-#guide-heading-left {
+#guide-apply-heading-left {
     font-size: 170%;
     text-align: center;
     margin: 25px;
@@ -281,7 +281,7 @@ h1 {
 
 /* guide apply right */
 
-#guide-heading-right {
+#guide-apply-heading-right {
     font-size: 175%;
     text-align: center;
     margin: 50px;
@@ -311,7 +311,7 @@ h1 {
 
 /* guide travel left */
 
-#guide-travel-left {
+#guide-travel-heading-left {
     font-size: 250%;
     text-align: center;
     margin-top: 100px;
@@ -337,8 +337,70 @@ h1 {
     background-color:  #FFFDD0;
 }
 
-#guide-travel-right {
+#guide-travel-heading-right {
     font-size: 250%;
     text-align: center;
     margin-top: 100px;
+}
+
+
+#guide-sleep {
+    clear: both;
+    height: 200px;
+    width: 100%;
+    background-color:  #FFFDD0;
+    word-spacing: 2px;
+    font-size: 120%;
+}
+/* guide apply left */
+
+#guide-sleep-heading-left {
+    font-size: 250%;
+    text-align: center;
+    margin: 25px;
+}
+
+#guide-sleep-info {
+    height: 250px;
+    width: 50%;
+    float: left;
+    border: 1.5px solid #3a3a3a;
+    box-sizing: border-box;
+    background-color:  #FFFDD0;
+}
+/*
+#guide-apply-info li {
+    margin-left: 150px;
+}
+
+#guide-apply-info p {
+    text-align: left;
+    margin-left: 50px;
+    margin-top: 25px;
+
+}
+
+#guide-apply-info ul {
+    margin-left: 10px; 
+}
+
+*/
+
+/* guide apply right */
+
+#guide-sleep-heading-right {
+    font-size: 100%;
+    text-align: center;
+    margin: 50px;
+}
+
+#guide-sleep-picture {
+    height: 250px;
+    width: 50%;
+    float: right;
+    border: 1.5px solid #3a3a3a;
+    box-sizing: border-box;
+    background-color:  #FFFDD0;
+    text-align: center;
+    font-size: 250%;
 }
