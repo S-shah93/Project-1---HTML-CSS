@@ -464,3 +464,22 @@ h1 {
 #guide-footer a:hover {
     background-color: #fafafa;
 }
+
+/* media queries */
+
+/* For larger to medium screens size from 1200px wide and down */
+
+@media screen and (max-width: 1200px) {
+    #hp-information-top {
+        width: 75%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+    #hp-information-bottom-left {
+        clear: both;
+        width: 75%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+}
