@@ -249,7 +249,7 @@ h1 {
 }
 /* guide apply left */
 
-.guide-heading-left {
+#guide-heading-left {
     font-size: 170%;
     text-align: center;
     margin: 25px;
@@ -281,7 +281,7 @@ h1 {
 
 /* guide apply right */
 
-.guide-heading-right {
+#guide-heading-right {
     font-size: 175%;
     text-align: center;
     margin: 50px;
@@ -309,24 +309,13 @@ h1 {
     font-size: 120%;
 }
 
-#guide-travel-picture {
-    float: left;
-}
+/* guide travel left */
 
-#guide-travel-info {
-    float: right;
-    width: 100%;
+#guide-travel-left {
+    font-size: 250%;
+    text-align: center;
+    margin-top: 100px;
 }
-
-#guide-travel-info {
-    height: 300px;
-    width: 50%;
-    float: right;
-    border: 1.5px solid #3a3a3a;
-    box-sizing: border-box;
-    background-color:  #FFFDD0;
-}
-
 #guide-travel-picture {
     height: 300px;
     width: 50%;
@@ -334,4 +323,22 @@ h1 {
     border: 1.5px solid #3a3a3a;
     box-sizing: border-box;
     background-color:  #FFFDD0;
+}
+
+/* guide travel right */
+
+#guide-travel-info {
+    height: 300px;
+    width: 50%;
+    float: right;
+    text-align: center;
+    border: 1.5px solid #3a3a3a;
+    box-sizing: border-box;
+    background-color:  #FFFDD0;
+}
+
+#guide-travel-right {
+    font-size: 250%;
+    text-align: center;
+    margin-top: 100px;
 }
