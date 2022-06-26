@@ -376,25 +376,6 @@ h1 {
     box-sizing: border-box;
     background-color:  #FFFDD0;
 }
-/*
-#guide-apply-info li {
-    margin-left: 150px;
-}
-
-#guide-apply-info p {
-    text-align: left;
-    margin-left: 50px;
-    margin-top: 25px;
-
-}
-
-#guide-apply-info ul {
-    margin-left: 10px; 
-}
-
-*/
-
-/* guide sleep right */
 
 #guide-sleep-heading-right {
     font-size: 110%;
@@ -411,4 +392,23 @@ h1 {
     background-color:  #FFFDD0;
     text-align: center;
     font-size: 220%;
+}
+
+/* guide page photos section */
+
+#photos {
+    clear: both;
+    line-height: 0;
+    column-count: 3;
+    column-gap: 0px;
+}
+#photos h2, h3 {
+    margin: 25px;
+    padding: 5px;
+    text-align: center;
+    column-span: all;
+}
+
+#photos > img {
+    width: 100%;
 }
