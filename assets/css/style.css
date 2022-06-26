@@ -93,7 +93,7 @@ h1 {
 
 #hero-cover-text {
     font-size: 130%;
-    font-family: Titan One, cursive;
+    font-family: overlock, lato;
     text-transform: uppercase;
     letter-spacing: 4px;
 
@@ -412,3 +412,6 @@ h1 {
 #photos > img {
     width: 100%;
 }
+
+/* guide page footer */
+
