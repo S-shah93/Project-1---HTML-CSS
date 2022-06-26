@@ -241,6 +241,8 @@ h1 {
 
 .guide-heading {
     font-size: 200%;
+    text-align: center;
+    margin: 25px;
 }
 
 #guide-apply {
@@ -248,6 +250,8 @@ h1 {
     height: 400px;
     width: 100%;
     background-color:  #FFFDD0;
+    word-spacing: 2px;
+    font-size: 120%;
 }
 
 #guide-apply-info {
@@ -263,3 +267,17 @@ h1 {
     background-color:  #FFFDD0;
 }
 
+#guide-apply-info li {
+    margin-left: 150px;
+}
+
+#guide-apply-info p {
+    text-align: left;
+    margin-left: 50px;
+    margin-top: 25px;
+
+}
+
+#guide-apply-info ul {
+    margin-left: 10px; 
+}
