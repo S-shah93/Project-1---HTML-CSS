@@ -222,10 +222,12 @@ h1 {
 /* footer */
 
 #hp-footer{
-    color: #fafafa;
+    height: 110px;
     background-color: rgb(41, 41, 41);
+
     text-align: center;
     font-size: 140%;
+    padding-top: 25px;
 }
 
 #hp-footer a {
@@ -415,3 +417,23 @@ h1 {
 
 /* guide page footer */
 
+#guide-footer {
+    height: 110px;
+    background-color: rgb(41, 41, 41);
+
+    font-size: 25px;
+    text-align: center;
+    padding-top: 25px;
+    
+}
+
+
+#guide-footer a {
+    font-size: 145%;
+    color: inherit;
+    text-decoration: none;
+}
+
+#guide-footer a:hover {
+    background-color: black;
+}
