@@ -239,10 +239,18 @@ h1 {
 
 /* guide page */
 
-.guide-heading {
-    font-size: 200%;
+/* guide apply */
+
+.guide-heading-left {
+    font-size: 170%;
     text-align: center;
     margin: 25px;
+}
+
+.guide-heading-right {
+    font-size: 175%;
+    text-align: center;
+    margin: 50px;
 }
 
 #guide-apply {
@@ -265,6 +273,8 @@ h1 {
     width: 50%;
     float: right;
     background-color:  #FFFDD0;
+    text-align: center;
+    font-size: 250%;
 }
 
 #guide-apply-info li {
@@ -281,3 +291,4 @@ h1 {
 #guide-apply-info ul {
     margin-left: 10px; 
 }
+
