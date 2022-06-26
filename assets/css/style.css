@@ -402,7 +402,7 @@ h1 {
     column-count: 3;
     column-gap: 0px;
 }
-#photos h2, h3 {
+#photos h2 {
     margin: 25px;
     padding: 5px;
     text-align: center;
