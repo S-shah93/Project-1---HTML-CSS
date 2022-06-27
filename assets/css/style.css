@@ -476,12 +476,13 @@ h1 {
 }
 
 .signup-form {
-    margin: 150px 10% 0 0;
+    margin-top: 150px;
+    margin-left: 800px;
     color: #ffbf00;
     background-color: black;
     max-width: 4000px;
     position: absolute;
-    left: 10%;
+
     padding: 30px;
 }
 
@@ -489,6 +490,8 @@ h1 {
     
     color: #ffbf00;
     margin-bottom: 20px;
+    text-align: center;
+    font: titan one;
 }
 
 .text-input {
