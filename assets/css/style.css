@@ -468,10 +468,11 @@ h1 {
 /* form */
 .form-section {
     clear: left;
-    background-color: #3a3a3a;
+    background: url("../images/signup\ bg.jpeg") no-repeat center center;
     background-size: cover;
     background-position: center;
-    height: 700px;
+    height: 900px;
+ 
 }
 
 .signup-form {
