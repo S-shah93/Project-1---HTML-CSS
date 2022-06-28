@@ -159,6 +159,22 @@ h1 {
     background-color: #535353;
 }
 
+#hp-information-bottom div {
+    color: #fafafa;
+    background-color: #535353;
+    height: 500px;
+    width: 50%;
+    font-size: 130%;
+    
+    float: left;
+ 
+    text-align: center;
+    padding-top: 25px;
+
+    border: 3px solid #ffbf00;
+    box-sizing: border-box;
+}
+
 #hp-information-bottom-left {
     
     color: #fafafa;
@@ -194,7 +210,7 @@ h1 {
 /*hp information bottom right*/
 
 #hp-information-bottom-right {
-  
+    background-color: #535353;
     color: #fafafa;
     height: 500px;
     width: 50%;
@@ -607,9 +623,20 @@ input[type="radio"] {
 
     /* homepage */
 
+    #hero-outer {
+        height: 400px;
+        width: 100%;
+        overflow: hidden;
+    
+        position: relative;
+    }
+
     #hero-cover-text{
         left: 0px;
+        bottom: 0px;
     }
+
+    /* hp information top*/
 
     #hp-information-top {
         background-color: black;
@@ -623,14 +650,24 @@ input[type="radio"] {
         width: 100%;
         height: 300px;
         float: left;
-        
     }
 
-    #hp-information-bottom-left {
-        background-color: #535353;
+    #hp-information-top a {
+        font-size: 60px;
+        color: #ffbf00;
+        text-decoration: none;
+    }
+    
+    #hp-information-top p {
+        margin: 5px;
+    }
+
+    /*hp information bottom */
+
+    #hp-information-bottom {
+        height: 500px;
         width: 100%;
-        height: 400px;
-        
+        background-color: #535353;
     }
 
     #hp-information-bottom div {
@@ -640,14 +677,70 @@ input[type="radio"] {
         float: left;
         
     }
-    #hp-information-bottom-right {
+    /* hp information bottom left */
+
+    #hp-information-bottom-left {
         background-color: #535353;
         width: 100%;
         height: 400px;
+    }
+
+    #hp-information-bottom-left ul {
+        margin-left: 200px;
+        padding: 15px;
+        text-align: left;  
+    }
+    
+    #hp-information-bottom-left p {
+        margin: 10px 4px 1px 10px;
+        padding-left: 30px;
+      
+      
+    }
+    
+    #hp-information-bottom-left a {
+        color: #ffbf00;
+        text-decoration: none; 
+        font-size: 70px;  
+    }
+    
+    /*hp information bottom right*/
+    
+    #hp-information-bottom-right {
+        background-color: #535353;
+        width: 100%;
+        height: 400px; 
+    }
+
+    #hp-information-bottom-right ul {
+        margin-left: 200px;
+        padding: 15px;
+        text-align: left;
         
     }
 
-    /* signup page */
+    #hp-information-bottom-right p {
+ 
+        margin-top: 5px;
+        margin-left: 5px;
+        padding: 2px;
+     
+        font-size: 110%;
+    }
+    
+    
+    #hp-information-bottom-right a {
+        color: #ffbf00;
+        text-decoration: none; 
+        font-size: 70px;  
+    }
+    /* Guide */
+
+
+    /* Gallery */
+
+
+    /* footer
     .form-section {
         clear: left;
        
@@ -657,7 +750,10 @@ input[type="radio"] {
         border: 3px solid black; 
      
     }
+    */
     
+    /* Signup */
+
     .signup-form {
         margin-top: 50px;
         margin-left: 300px;
@@ -712,6 +808,7 @@ input[type="radio"] {
         background-color: #fafafa;
         color: #ffbf00;
     }
+    /* Signedup */
 }
 
 /*
@@ -723,32 +820,52 @@ input[type="radio"] {
  /* For medium screens sizes from 900px wide and down */
 @media screen and (max-width: 900px){
 
-    /* home page */
+    /* home */
+
+    #hero-outer {
+        height: 500px;
+        width: 100%;
+        overflow: hidden;
+    
+        position: relative;
+    }
 
     #hero-cover-text{
         left: 0px;
+        bottom: 0px;
     }
+    /* hp information top*/
 
     #hp-information-top {
         background-color: black;
         width: 100%;
-        height: 400px;
+        height: 300px;
         margin-top: 1px;
     }
     #hp-information-top div {
         background-color: black;
         clear: both;
         width: 100%;
-        height: 400px;
+        height: 300px;
         float: left;
-        
     }
 
-    #hp-information-bottom-left {
-        background-color: #535353;
+    #hp-information-top a {
+        font-size: 60px;
+        color: #ffbf00;
+        text-decoration: none;
+    }
+    
+    #hp-information-top p {
+        margin: 5px;
+    }
+
+    /* hp information bottom*/
+
+    #hp-information-bottom {
+        height: 200px;
         width: 100%;
-        height: 500px;
-        
+        background-color: #535353;
     }
 
     #hp-information-bottom div {
@@ -758,13 +875,68 @@ input[type="radio"] {
         float: left;
         
     }
+
+    /* hp information bottom left */
+
+    #hp-information-bottom-left {
+        background-color: #535353;
+        width: 100%;
+        height: 150px;
+        
+    }
+
+    #hp-information-bottom-left ul {
+        margin-left: 100px;
+        padding: 10px;
+        text-align: left;  
+    }
+    
+    #hp-information-bottom-left p {
+        margin: 10px 4px 1px 10px;
+        padding-left: 15px;
+        text-align: center;
+      
+    }
+    
+    #hp-information-bottom-left a {
+        color: #ffbf00;
+        text-decoration: none; 
+        font-size: 70px;  
+        padding-left: 15px;
+    }
+
+    /*hp information bottom right*/
+
     #hp-information-bottom-right {
         background-color: #535353;
         width: 100%;
         height: 500px;
-   
+    }
+
+    #hp-information-bottom-right p {
+ 
+        margin-top: 5px;
+        margin-left: 15px;
+        padding: 2px;
+     
+        font-size: 90%;
+    }
+    
+    #hp-information-bottom-right ul {
+        margin-left: 100px;
+        padding: 10px;
+        text-align: left;
         
     }
+    
+    #hp-information-bottom-right a {
+        color: #ffbf00;
+        text-decoration: none; 
+        font-size: 70px;  
+        padding: 15px;
+    }
+      /* guide */
+
 
     /* gallery */
 
@@ -784,17 +956,133 @@ input[type="radio"] {
     #photos img {
         width: 100%;
     }
-  
+
+    /* signedup */
+
+
 }
- /* For medium screens sizes from 600px wide and down */
+ /* For medium screens sizes from 390px wide and down */
 
-/* homepage */
+    @media screen and (max-width: 390px){
+        /* homepage */
+
+    #hero-outer {
+        height: 500px;
+        width: 100%;
+        overflow: hidden;
     
+        position: relative;
+    }
 
+    #hero-cover-text{
+        left: 0px;
+        bottom: 0px;
+        width: 100%;
+        font-size: 110%;
+    }
+    /* hp information top*/
 
- /* gallery */
+    #hp-information-top {
+        background-color: black;
+        width: 100%;
+        height: 450px;
+        margin-top: 1px;
+    }
+    #hp-information-top div {
+        background-color: black;
+        clear: both;
+        width: 100%;
+        height: 450px;
+        float: left;
+    }
 
-@media screen and (max-width: 600px){
+    #hp-information-top a {
+        font-size: 60px;
+        color: #ffbf00;
+        text-decoration: none;
+    }
+    
+    #hp-information-top p {
+        margin: 5px;
+    }
+
+    /* hp information bottom*/
+
+    #hp-information-bottom {
+        height: 800px;
+        width: 100%;
+        background-color: #535353;
+    }
+
+    #hp-information-bottom div {
+        background-color: #535353;
+        width: 100%;
+        height: 500px;
+        float: left;   
+    }
+
+    /* hp information bottom left */
+
+    #hp-information-bottom-left {
+        background-color: #535353;
+        width: 100%;
+        height: 150px;
+        
+    }
+
+    #hp-information-bottom-left ul {
+        margin-left: 60px;
+        padding: 2px;
+        text-align: left;  
+    }
+    
+    #hp-information-bottom-left p {
+        margin: 10px 4px 1px 10px;
+        padding-left: 15px;
+        text-align: center;
+      
+    }
+    
+    #hp-information-bottom-left a {
+        color: #ffbf00;
+        text-decoration: none; 
+        font-size: 70px;  
+    }
+
+    /* hp information bottom right */
+
+    #hp-information-bottom-right {
+        background-color: #535353;
+        width: 100%;
+        height: 500px;
+    }
+
+    #hp-information-bottom-right p {
+ 
+        margin-top: 5px;
+        margin-left: 30px;
+        padding: 2px;
+     
+        font-size: 90%;
+    }
+    
+    #hp-information-bottom-right ul {
+        margin-left: 60px;
+        padding: 2px;
+        text-align: left;
+        
+    }
+    
+    #hp-information-bottom-right a {
+        color: #ffbf00;
+        text-decoration: none; 
+        font-size: 50px;  
+    }
+
+    /* guide */
+
+    /* gallery */
+
     #photos {
         clear: both;
         line-height: 0;
@@ -810,4 +1098,12 @@ input[type="radio"] {
     #photos img {
         width: 100%;
     }
+
+    
+
+
+
+    /* guide */
+
 }
+
