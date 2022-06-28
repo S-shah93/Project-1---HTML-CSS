@@ -332,7 +332,8 @@ h1 {
 }
 
 #guide-apply-right a {
-    color: inherit;
+    font-size: 150%;
+    color: #ffbf00;
     text-decoration: none;
 }
 
@@ -382,7 +383,7 @@ h1 {
 }
 
 #guide-travel-right a {
-    color: inherit;
+    color: #ffbf00;
     text-decoration: none;
 }
 
@@ -434,7 +435,7 @@ h1 {
 }
 
 #guide-sleep-right a {
-    color: inherit;
+    color: #ffbf00;
     text-decoration: none;
 }
 
