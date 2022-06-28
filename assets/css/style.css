@@ -174,7 +174,7 @@ h1 {
 /*hp information bottom left*/
 
 #hp-information-bottom {
-    height: 500px;
+    height: 400px;
     width: 100%;
     background-color: #535353;
 }
@@ -182,37 +182,45 @@ h1 {
 
 #hp-information-bottom-left {
     color: #fafafa;
+    height: 400px;
     width: 50%;
-    height: 500px;
     float: left;
     padding-top: 25px;
+    font-size: 150%;
     text-align: center;
     border: 2px solid #ffbf00;
     box-sizing: border-box;
 }
 
 #hp-information-bottom-left ul {
-    margin-left: 80px;
-    padding: 2px;
+    margin-left: 250px;
+    padding: 10px;
     text-align: left;
-    font-size: 110%;
+    
 }
 
 #hp-information-bottom-left p {
     margin: 10px 4px 1px 10px;
-    padding: 5px;
-    text-align: left;
-    font-size: 110%;
+    padding-left: 30px;
+    text-align: center;
+  
+}
+
+#hp-information-bottom-left a {
+    color: #ffbf00;
+    text-decoration: none; 
+    font-size: 70px;  
 }
 
 /*hp information bottom right*/
 
 #hp-information-bottom-right {
     color: #fafafa;
+    height: 400px;
     width: 50%;
-    height: 500px;
-    float: left;
+    float: right;
     padding-top: 25px;
+    font-size: 150%;
     text-align: center;
     border: 2px solid #ffbf00;
     box-sizing: border-box;
@@ -220,10 +228,24 @@ h1 {
 
 #hp-information-bottom-right p {
  
-    margin: 20px 0px 0px 80px;
-    padding: 4px;
-    text-align: left;
+    margin-top: 5px;
+    margin-left: 30px;
+    padding: 2px;
+ 
     font-size: 110%;
+}
+
+#hp-information-bottom-right ul {
+    margin-left: 250px;
+    padding: 10px;
+    text-align: left;
+    
+}
+
+#hp-information-bottom-right a {
+    color: #ffbf00;
+    text-decoration: none; 
+    font-size: 70px;  
 }
 
 /* footers */
@@ -283,8 +305,9 @@ h1 {
     font-size: 180%;
     text-align: center;
     margin: 25px;
+    color: inherit;
 }
-
+    
 #guide-apply-info {
     height: 350px;
     width: 50%;
