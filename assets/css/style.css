@@ -232,25 +232,46 @@ h1 {
 
 /* footer */
 
-.footer-signup{
+.footer{
     height: 110px;
     background-color: rgb(41, 41, 41);
-
     text-align: center;
     font-size: 130%;
     padding-top: 25px;
 }
 
-.footer-signup a {
+.footer a {
     font-size: 145%;
     color: inherit;
     text-decoration: none;
 }
-.footer-signup a:hover {
+.footer a:hover {
     background-color: #fafafa;
 }
 
-.footer-home {
+.footer-signup {
+    height: 75px;
+    background-color: rgb(41, 41, 41);
+
+    
+    font-size: 130%;
+    padding-top: 25px;
+    padding-left: 400px;
+}
+
+.footer-signup-icon li {
+    font-size: 200%;
+    display: inline;
+}
+
+.footer-signup i {
+    padding-left: 250px;
+    color: #ffbf00;
+}
+
+
+/*
+.footer-signup {
     height: 110px;
     background-color: rgb(41, 41, 41);
 
