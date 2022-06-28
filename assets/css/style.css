@@ -129,17 +129,25 @@ h1 {
     color: #fafafa;
     height: 400px;
     width: 33.33%;
-
+    font-size: 130%;
     
     float: left;
  
     text-align: center;
-    padding-top: 15px;
+    padding-top: 25px;
 
     border: 3px solid #ffbf00;
     box-sizing: border-box;
-    
-   
+}
+
+#hp-information-top a {
+    font-size: 80px;
+    color: #ffbf00;
+    text-decoration: none;
+}
+
+#hp-information-top p {
+    margin: 25px;
 }
 
 /* table home page */
