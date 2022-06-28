@@ -230,7 +230,7 @@ h1 {
     font-size: 110%;
 }
 
-/* footer */
+/* footers */
 
 .footer{
     height: 110px;
@@ -525,6 +525,28 @@ input[type="radio"] {
 .join-button:hover {
     background-color: #fafafa;
     color: #ffbf00;
+}
+
+/* signed up */
+
+.thank-you {
+    clear: both;
+    height: 400px;
+    background-color: rgb(41, 41, 41);
+    text-align: center;
+    font-size: 180%;
+    padding-top: 250px;
+
+}
+.thank-you div {
+    width: 900px;
+    margin-left: 450px;
+}
+
+.thank-you a {
+    color: blue;
+    text-decoration: none;
+
 }
 
 
