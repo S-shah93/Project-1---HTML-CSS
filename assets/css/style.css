@@ -126,6 +126,7 @@ h1 {
 
 
 #hp-information-top div {
+    
     color: #fafafa;
     height: 400px;
     width: 33.33%;
@@ -153,15 +154,15 @@ h1 {
 /*hp information bottom left*/
 
 #hp-information-bottom {
-    height: 400px;
+    height: 500px;
     width: 100%;
     background-color: #535353;
 }
 
-
 #hp-information-bottom-left {
+    
     color: #fafafa;
-    height: 400px;
+    height: 500px;
     width: 50%;
     float: left;
     padding-top: 25px;
@@ -174,8 +175,7 @@ h1 {
 #hp-information-bottom-left ul {
     margin-left: 250px;
     padding: 10px;
-    text-align: left;
-    
+    text-align: left;  
 }
 
 #hp-information-bottom-left p {
@@ -194,8 +194,9 @@ h1 {
 /*hp information bottom right*/
 
 #hp-information-bottom-right {
+  
     color: #fafafa;
-    height: 400px;
+    height: 500px;
     width: 50%;
     float: right;
     padding-top: 25px;
@@ -229,7 +230,7 @@ h1 {
 
 /* footers */
 
-.footer{
+.footer {
     height: 110px;
     background-color: black;
     text-align: center;
@@ -257,6 +258,7 @@ h1 {
 }
 
 .footer-signup-icon li {
+    color: #ffbf00;
     font-size: 200%;
     display: inline;
 }
@@ -505,7 +507,7 @@ h1 {
 }
 
 #photos img {
-    width: 634.5px;
+    width: 100%;
 }
 
 /* form */
@@ -601,17 +603,211 @@ input[type="radio"] {
 
 /* For larger to medium screens size from 1200px wide and down */
 
-/* will come back to this later */
 @media screen and (max-width: 1200px) {
+
+    /* homepage */
+
+    #hero-cover-text{
+        left: 0px;
+    }
+
     #hp-information-top {
+        background-color: black;
         width: 100%;
-        height: 1200px;
-        margin: 0 auto;
+        height: 300px;
+        margin-top: 1px;
+    }
+    #hp-information-top div {
+        background-color: black;
+        clear: both;
+        width: 100%;
+        height: 300px;
+        float: left;
+        
     }
 
     #hp-information-bottom-left {
+        background-color: #535353;
         width: 100%;
-        height: 1200px;
-        margin: 0 auto;
+        height: 400px;
+        
+    }
+
+    #hp-information-bottom div {
+        background-color: #535353;
+        width: 100%;
+        height: 400px;
+        float: left;
+        
+    }
+    #hp-information-bottom-right {
+        background-color: #535353;
+        width: 100%;
+        height: 400px;
+        
+    }
+
+    /* signup page */
+    .form-section {
+        clear: left;
+       
+        background-size: cover;
+        background-position: center;
+        height: 600px;
+        border: 3px solid black; 
+     
+    }
+    
+    .signup-form {
+        margin-top: 50px;
+        margin-left: 300px;
+        color: #ffbf00;
+        background-color: black;
+        max-width: 700px;
+        position: absolute;
+    
+        padding: 30px;
+    }
+    
+    .signup-form > h2 {
+        
+        color: #ffbf00;
+        margin-bottom: 20px;
+        text-align: center;
+        font: titan one;
+    }
+    
+    .text-input {
+        background: transparent;
+        color: #ffbf00;
+        width: 100%;
+        height: 25px;
+        margin-top: 5px;
+        margin-bottom: 20px;
+        border: 1px solid #ffbf00;
+        border-radius: 2px;
+    }
+    
+    .text-input:hover {
+        border-color: #ff0101;
+    }
+    
+    input[type="radio"] {
+        margin-right: 20px;
+      }
+    
+    .join-button {
+        margin-top: 20px;
+        margin-left: 15px;
+        border-radius: 2px;
+        padding: 15px 32px 15px 32px;
+        text-align: center;
+        font-size: 140%;
+        background-color: #ffbf00;
+        color: #fafafa;
+        display: block;
+    }
+    
+    .join-button:hover {
+        background-color: #fafafa;
+        color: #ffbf00;
+    }
+}
+
+/*
+    .footer {
+        background-color: black;
+    }
+ */
+
+ /* For medium screens sizes from 900px wide and down */
+@media screen and (max-width: 900px){
+
+    /* home page */
+
+    #hero-cover-text{
+        left: 0px;
+    }
+
+    #hp-information-top {
+        background-color: black;
+        width: 100%;
+        height: 400px;
+        margin-top: 1px;
+    }
+    #hp-information-top div {
+        background-color: black;
+        clear: both;
+        width: 100%;
+        height: 400px;
+        float: left;
+        
+    }
+
+    #hp-information-bottom-left {
+        background-color: #535353;
+        width: 100%;
+        height: 500px;
+        
+    }
+
+    #hp-information-bottom div {
+        background-color: #535353;
+        width: 100%;
+        height: 500px;
+        float: left;
+        
+    }
+    #hp-information-bottom-right {
+        background-color: #535353;
+        width: 100%;
+        height: 500px;
+   
+        
+    }
+
+    /* gallery */
+
+    #photos {
+        clear: both;
+        line-height: 0;
+        column-count: 2;
+        column-gap: 0px;
+    }
+    #photos h2 {
+        margin: 10px;
+        padding: 5px;
+        text-align: center;
+        column-span: all;
+    }
+    
+    #photos img {
+        width: 100%;
+    }
+  
+}
+ /* For medium screens sizes from 600px wide and down */
+
+/* homepage */
+    
+
+
+ /* gallery */
+
+@media screen and (max-width: 600px){
+    #photos {
+        clear: both;
+        line-height: 0;
+        column-count: 1;
+        column-gap: 0px;
+    }
+    #photos h2 {
+        text-align: center;
+        column-span: all;
+        float: left;
+    }
+    
+    #photos img {
+        width: 100%;
     }
 }
