@@ -292,12 +292,12 @@ h1 {
 
 #guide-apply {
     clear: both;
-    height: 350px;
+    height: 375px;
     width: 95%;
     margin-left: 2.5%;
     background-color:  black;
     word-spacing: 2px;
-    font-size: 120%;
+    font-size: 130%;
 }
 /* guide apply left */
 
@@ -309,8 +309,8 @@ h1 {
 }
     
 #guide-apply-info {
-    height: 350px;
-    width: 50%;
+    height: 375px;
+    width: 70%;
     font-size: 98%;
     float: left;
     border: 2px solid #ffbf00;
@@ -336,20 +336,19 @@ h1 {
 /* guide apply right */
 
 #guide-apply-heading-right {
-    font-size: 135%;
+    font-size: 190%;
     text-align: center;
-    margin: 85px;
+    margin: 100px;
 }
 
 #guide-apply-picture {
-    height: 350px;
-    width: 50%;
+    height: 375px;
+    width: 30%;
     float: right;
     border: 2px solid #ffbf00;
     box-sizing: border-box;
-    background-color:  #FFFDD0;
+    background-color:  #292929;
     text-align: center;
-    font-size: 250%;
 }
 
 #guide-apply-picture a {
