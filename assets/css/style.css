@@ -442,7 +442,7 @@ h1 {
     text-decoration: none;
 }
 
-/* guide page photos section */
+/* gallery */
 
 #photos {
     clear: both;
@@ -457,8 +457,8 @@ h1 {
     column-span: all;
 }
 
-#photos > a {
-    width: 100%;
+#photos img {
+    width: 635px;
 }
 
 /* form */
