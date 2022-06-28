@@ -230,8 +230,24 @@ h1 {
     font-size: 110%;
 }
 
+.footer-signup{
+    height: 110px;
+    background-color: rgb(41, 41, 41);
 
-/* footer */
+    text-align: center;
+    font-size: 140%;
+    padding-top: 25px;
+}
+
+.footer-signup a {
+    font-size: 145%;
+    color: inherit;
+    text-decoration: none;
+}
+.footer-signup a:hover {
+    background-color: #fafafa;
+}
+/* footer 
 
 #hp-footer{
     height: 110px;
@@ -250,7 +266,7 @@ h1 {
 #hp-footer a:hover {
     background-color: #fafafa;
 }
-
+*/
 /* guide page */
 
 #guide-apply {
@@ -442,7 +458,7 @@ h1 {
     width: 100%;
 }
 
-/* guide page footer */
+/* guide page footer 
 
 #guide-footer {
     height: 110px;
@@ -464,7 +480,7 @@ h1 {
 #guide-footer a:hover {
     background-color: #fafafa;
 }
-
+*/
 /* form */
 .form-section {
     clear: left;
