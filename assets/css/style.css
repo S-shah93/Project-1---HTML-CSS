@@ -521,6 +521,13 @@ h1 {
     text-align: center;
     column-span: all;
 }
+#photos p {
+    column-span: all;
+    margin: 25px;
+    padding: 5px;
+    font-size: 150%;
+    text-align: center;
+}
 
 #photos img {
     width: 100%;
@@ -1092,7 +1099,16 @@ input[type="radio"] {
     #photos h2 {
         text-align: center;
         column-span: all;
-        float: left;
+        padding: 10px;
+        word-spacing: 5px;
+    }
+
+    #photos p {
+        column-span: all;
+        margin: 25px;
+        padding: 5px;
+        font-size: 130%;
+        text-align: center;
     }
     
     #photos img {
