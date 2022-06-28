@@ -308,7 +308,7 @@ h1 {
     color: inherit;
 }
     
-#guide-apply-info {
+#guide-apply-left {
     height: 375px;
     width: 70%;
     font-size: 98%;
@@ -318,18 +318,18 @@ h1 {
 
 }
 
-#guide-apply-info li {
+#guide-apply-left li {
     margin-left: 150px;
 }
 
-#guide-apply-info p {
+#guide-apply-left p {
     text-align: left;
     margin-left: 50px;
     margin-top: 15px;
 
 }
 
-#guide-apply-info ul {
+#guide-apply-left ul {
     margin-left: 10px; 
 }
 
@@ -341,7 +341,7 @@ h1 {
     margin: 100px;
 }
 
-#guide-apply-picture {
+#guide-apply-right {
     height: 375px;
     width: 30%;
     float: right;
@@ -351,7 +351,7 @@ h1 {
     text-align: center;
 }
 
-#guide-apply-picture a {
+#guide-apply-right a {
     color: inherit;
     text-decoration: none;
 }
@@ -359,11 +359,9 @@ h1 {
 /* guide travel */
 
 #guide-travel {
-  
     height: 250px;
     width: 95%;
     margin-left: 2.5%;
-    background-color:  black;
     word-spacing: 2px;
     font-size: 25px;
 }
@@ -371,22 +369,20 @@ h1 {
 /* guide travel left */
 
 #guide-travel-heading-left {
-    font-size: 250%;
+    font-size: 200%;
     text-align: center;
-    margin-top: 100px;
-}
-#guide-travel-picture {
-    height: 250px;
-    width: 50%;
-    float: left;
-    border: 2px solid #ffbf00;
-    box-sizing: border-box;
-    background-color:  #FFFDD0;
 }
 
-#guide-travel-picture a {
-    color: inherit;
-    text-decoration: none;
+#guide-travel-left {
+    height: 250px;
+    width: 70%;
+    float: left;
+    padding-top: 30px;
+    font-size: 140%;
+    text-align: center;
+    border: 2px solid #ffbf00;
+    box-sizing: border-box;
+    background-color:  black;
 }
 
 /* guide travel right */
@@ -394,21 +390,21 @@ h1 {
 #guide-travel-heading-right {
     font-size: 200%;
     text-align: center;
-    margin-top: 50px;
+    margin-top: 100px;
 }
-
-#guide-travel-info {
+#guide-travel-right {
     height: 250px;
-    width: 50%;
+    width: 30%;
     float: right;
-    font-size: 100%;
-    text-align: center;
     border: 2px solid #ffbf00;
     box-sizing: border-box;
-    background-color:  black;
+    background-color:  #292929;
 }
 
-
+#guide-travel-right a {
+    color: inherit;
+    text-decoration: none;
+}
 
 /* guide sleep */
 
@@ -423,39 +419,41 @@ h1 {
 }
 /* guide sleep left */
 
-#guide-sleep-heading-left {
-    font-size: 200%;
-    text-align: center;
-    margin: 55px;
-}
-
-#guide-sleep-info {
+#guide-sleep-left {
     height: 250px;
-    width: 50%;
+    width: 70%;
     float: left;
     border: 2px solid #ffbf00;
     box-sizing: border-box;
     background-color:  black;
 }
 
-#guide-sleep-heading-right {
-    font-size: 110%;
+#guide-sleep-heading-left {
+    font-size: 200%;
     text-align: center;
-    margin: 80px;
+    margin: 55px;
 }
 
-#guide-sleep-picture {
+/* guide sleep right */
+
+#guide-sleep-right {
     height: 250px;
-    width: 50%;
+    width: 30%;
     float: right;
     border: 2px solid #ffbf00;
     box-sizing: border-box;
-    background-color:  #FFFDD0;
+    background-color:  #292929;
     text-align: center;
     font-size: 220%;
 }
 
-#guide-sleep-picture a {
+#guide-sleep-heading-right {
+    font-size: 110%;
+    text-align: center;
+    margin-top: 80px;
+}
+
+#guide-sleep-right a {
     color: inherit;
     text-decoration: none;
 }
