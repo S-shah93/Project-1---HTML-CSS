@@ -167,23 +167,20 @@ h1 {
     text-decoration:none;
 }
 #table-top tr th {
-
     border: 0.5px solid gold;
     padding: 4px;
 }
 
 /*hp information bottom left*/
 
-
-#hp-information-bottom-left {
+#hp-information-bottom {
     height: 500px;
     width: 100%;
     background-color: #535353;
 }
 
 
-
-#hp-information-bottom-left div {
+#hp-information-bottom-left {
     color: #fafafa;
     width: 50%;
     height: 500px;
@@ -195,7 +192,6 @@ h1 {
 }
 
 #hp-information-bottom-left ul {
- 
     margin-left: 80px;
     padding: 2px;
     text-align: left;
@@ -203,7 +199,6 @@ h1 {
 }
 
 #hp-information-bottom-left p {
- 
     margin: 10px 4px 1px 10px;
     padding: 5px;
     text-align: left;
@@ -213,13 +208,6 @@ h1 {
 /*hp information bottom right*/
 
 #hp-information-bottom-right {
-    height: 500px;
-    width: 100%;
-    background-color: #535353;
-}
-
-
-#hp-information-bottom-right div {
     color: #fafafa;
     width: 50%;
     height: 500px;
