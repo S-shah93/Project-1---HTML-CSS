@@ -14,6 +14,7 @@ May your journey be peaceful and your prayers answered <a href="https://s-shah93
 Mecca Travels website has 4 pages. The [home page](index.html) is the default loading page, [guide](guide.html), [gallery](gallery.html) and [sign up](signup.html) are accessable primarily from the navigation menu. There is another page (not on the navigation menu) to let the user know their form has been submitted[signed up](signedup.html).
 
 [Back to top](<#contents>)
+
 ## Design Choices
 
  * ### Typography
@@ -26,8 +27,8 @@ Mecca Travels website has 4 pages. The [home page](index.html) is the default lo
 
 ![Colour Palate image](assets/readme-images/color-scheme.PNG)
 
-
 [Back to top](<#contents>)
+
 # Features
 
 Mecca Travels website is set up to be informative and easy to use. It contains many features that the user would probably be familiar with, such as a navigation bar and sign up form. The overall feel of the website is intended to be ralaxed and ease the pressure of orginising a trip to Mecca.
@@ -39,6 +40,7 @@ Mecca Travels website is set up to be informative and easy to use. It contains m
     * The logo is clickable with a link back to the home page for enhanced UX.
 
 ![Navigation bar image](assets/readme-images/nav-bar.PNG)
+
 [Back to top](<#contents>)
 
 * ### Links (icons)
@@ -48,6 +50,7 @@ Mecca Travels website is set up to be informative and easy to use. It contains m
 
 ![HP icons](assets/readme-images/hp-icon-top.PNG)
 ![HP icons](assets/readme-images/hp-icon-bottom.PNG)
+
 [Back to top](<#contents>)
 
 * ### Footer
@@ -57,15 +60,17 @@ Mecca Travels website is set up to be informative and easy to use. It contains m
     * On the sign up form page the footer is designed to help the user navigate back to the sites pages for more information.
 
     
-![Footer image]()
+![Footer image](assets/readme-images/footer.PNG)
+
 [Back to top](<#contents>)
 
 * ### Guide
-    * The guide page gives the user a more in depth look at the requirements when travelling to Mecca with links to the Saudi Arabia offical website to check specifice requirements for your own country.
+    * The guide page gives the user a more in depth look at the requirements when travelling to Mecca with links to the Saudi Arabia offical website to check specific requirements for your own country.
     * There is information and links to help the user plan thier trip in terms of hotel bookings and flights as well as places to eat and visit.
     * What happens in Mecca section helps the user understand the process of performing Hajj and Umrah.
 
-![Projects page image]()
+![Guide page image](assets/readme-images/guide-page.PNG)
+
 [Back to top](<#contents>)
 
  * ### Gallery
@@ -73,16 +78,17 @@ Mecca Travels website is set up to be informative and easy to use. It contains m
       * Located on the gallery page through the navigation bar. It was intended to make the user experience easy. The section is relatively plain to enable a focus on the images in the gallery.
       * A responsively styled grid of images to give the user a smooth view across all devices. 
 
-![Gallery image](assets/readme-images/gallery3.png)
+![Gallery page image](assets/readme-images/gallery-page.PNG)
+
 [Back to top](<#contents>)
 
 * ### Sign Up
 
     * This section should complete the online journey for the user. 
-    * It has a form for the purpose of the user wanting more information on travel deals and changing requirements for entry.
-    * There is a form that the user can choose to fill in. It has 5 input fields, first name, last name, email address, and 3 radio options to choose their preference of information they wish to receive. 
+    * It has a form for the purpose of the user wanting more information on travel deals and changing requirements for entry into the country.
+    * There is a form that the user can choose to fill in. It has 5 input fields, first name, last name, email address, and 3 radio input options to choose their preference of information they wish to receive. 
 
-![Sign Up page image]()
+![Sign Up page image](assets/readme-images/signup-form.PNG)
 [Back to top](<#contents>)
 
 
@@ -91,12 +97,7 @@ Mecca Travels website is set up to be informative and easy to use. It contains m
     * It provides a direct link back to the contact page as well as the normal navigation menu links in the header.
     * The footer is different on this page as they are already on the sign up page and this footer helps the user naviagate back to the website.
 
-![Form confirmation image]()
-[Back to top](<#contents>)
-
-## Future Features 
-
-* A live link to Mecca to give the users a look at how the 1000's of people walk side by side around the Kaaba.
+![Form confirmation image](assets/readme-images/signup-thank-you.PNG)
 
 [Back to top](<#contents>)
 
@@ -110,12 +111,16 @@ Please refer to [**_here_**](TESTING.md) for more information on testing Wawas W
 
 ### **To deploy the project**
 The site was deployed to GitHub pages. The steps to deploy a site are as follows:
-  1. In the GitHub repository, navigate to the **Settings** tab.
-  2. Once in Settings, navigate to the **Pages** tab on the left hand side.
-  3. Under **Source**, select the branch to **master**, then click **save**.
-  4. Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+  1. In the GitHub repository, navigate to the **Project**.
+  2. In the GitHub project, navigate to the **Settings** tab.
+  3. Once in Settings, navigate to the **Pages** tab on the left hand side.
+  4. Under **Source**, select the branch to **main**, then click **save**.
+  5. Once the master branch has been selected, then refresh the page to see your link with a check mark.
 
-![GitHub pages deployed image]()
+![GitHub pages deployed image](assets/readme-images/deployment-1.PNG)
+![GitHub pages deployed image](assets/readme-images/deployment-2.PNG)
+![GitHub pages deployed image](assets/readme-images/deployment-3.PNG)
+![GitHub pages deployed image](assets/readme-images/deployment-4.PNG)
 
   The live link to the Github repository can be found here - https://s-shah93.github.io/Project-1---HTML-CSS/
 
@@ -125,7 +130,7 @@ A copy of the GitHub Repository can be made by forking the GitHub account. This 
 1. Log in to **GitHub** and locate the [repository](https://github.com/S-shah93/Project-1---HTML-CSS).
 2. On the right hand side of the page inline with the repository name is a button called **'Fork'**, click on the button to create a copy of the original repository in your GitHub Account.
 
-![GitHub forking process image]()
+![GitHub forking process image](assets/readme-images/fork.PNG)
 
 
 
@@ -134,7 +139,9 @@ The method from cloning a project from GitHub is below:
 
 1. Under the repository’s name, click on the **code** tab.
 2. In the **Clone with HTTPS** section, click on the clipboard icon to copy the given URL.
-![Cloning image](assets/readme-images/clone.png)
+
+![Cloning image](assets/readme-images/clone.PNG)
+
 3. In your IDE of choice, open **Git Bash**.
 4. Change the current working directory to the location where you want the cloned directory to be made.
 5. Type **git clone**, and then paste the URL copied from GitHub.
@@ -151,8 +158,9 @@ The method from cloning a project from GitHub is below:
 * [Balsamiq](https://balsamiq.com/wireframes/) was used to create the wireframes.
 
 ### Media
-* The photos all came from , []().
-* The photos were compressed using [Compressor](https://compressor.io/).
+* The photos for the gallery came from , [Thrillophilia](https://www.thrillophilia.com/).
+* The background image for the homepage header and signup page came from, [Adobe Stock](https://stock.adobe.com/ie/)
+* The photos were resized for header homepage and signup page backgrounds using [iLoveimg](https://www.iloveimg.com/).
 
 [Back to top](<#contents>)
 
