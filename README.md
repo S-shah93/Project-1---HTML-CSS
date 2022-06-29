@@ -7,6 +7,37 @@ May your journey be peaceful and your prayers answered <a href="https://s-shah93
 ![Mecca Travel responsive design](assets/readme-images/responsive-desktop.png)
 
 # Contents
+
+* [**User Experience UX**](<#user-experience-ux>)
+    * [Wireframes](<#wireframes>)
+    * [Site Structure](<#site-structure>)
+    * [Design Choices](<#design-choices>)
+    *  [Typography](<#typography>)
+    *  [Colour Scheme](<#colour-scheme>)
+* [**Features**](<#features>)
+    * [**Home**](<#navigation-menu>)
+         * [Navigation menu](<#navigation-menu>)
+         * [Links (icons)](<#testimonials>)
+         * [Footer](<#footer>)
+    * [**Guide**](<#projects>)
+        * Guide apply
+        * Guide travel
+        * Guide sleep
+        * Guide Eat
+        * Guide Pray
+    * [**Gallery**](<#inspiration>)
+        * Photos
+    * [**Signup**](<#contact-us>)
+       * User contact information
+       * Design Query form
+    * [**Form Confirmation**](<#form-confirmation>)
+* [**Testing**](<#testing>)
+* [**Deployment**](<#deployment>)
+* [**Credits**](<#credits>)
+    * [**Content**](<#content>)
+    * [**Media**](<#media>)
+*  [**Acknowledgements**](<#acknowledgements>)
+
 # Wireframes
 
 # Site Structure
@@ -165,7 +196,7 @@ The method from cloning a project from GitHub is below:
 [Back to top](<#contents>)
 
 # Acknowledgements
-The site was completed as a Portfolio 1 Project piece for the Full Stack Software Developer (e-Commerce) Diploma at the [Code Institute](https://codeinstitute.net/). As such I would like to thank my mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/), the Slack community, and all at the Code Institute for their help and support. Wawas Woods is a fictional company but it exists in everything but the business title. Currently it is more of a hobby!
+The site was completed as a Portfolio 1 Project piece for the Full Stack Software Developer Diploma at the [Code Institute](https://codeinstitute.net/). As such I would like to thank my mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/), the Slack community, and all at the Code Institute for their help and support. Mecca Travel is a information site that I thought could be benifictial for people travelling to Mecca.
 
 Ewan Colquhoun 2021.
 
