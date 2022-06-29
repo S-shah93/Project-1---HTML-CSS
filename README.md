@@ -4,7 +4,7 @@ Mecca Travel is an information guide website to help better inform travellers on
 
 May your journey be peaceful and your prayers answered <a href="https://s-shah93.github.io/Project-1---HTML-CSS/" target="_blank" rel="noopener">Mecca Travel</a>
 
-![Mecca Travel responsive design](assests/README-images/responsive-desktop.png)
+![Mecca Travel responsive design](assets/readme-images/responsive-desktop.png)
 
 # Contents
 # Wireframes
@@ -76,10 +76,7 @@ Mecca Travels site is set up to be informative and easy to use. It contains many
 
     * This section should complete the online journey for the user. 
     * It has a form for the purpose of the user wanting more information on travel deals and changing requirements for entry.
-
-
-    * In case the user would like to contact Wawas Woods directly there is an e-mail link icon. It opens the user's default email provider with an email addressed to Wawas Woods.
-    * There is a form that the user can choose to fill in. It has 5 input fields, first name, last name, email address, and an radio option to chose their preference of information they wish to receive. 
+    * There is a form that the user can choose to fill in. It has 5 input fields, first name, last name, email address, and 3 radio options to choose their preference of information they wish to receive. 
 
 ![Sign Up page image]()
 [Back to top](<#contents>)
