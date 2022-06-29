@@ -1352,10 +1352,11 @@ input[type="radio"] {
     }
         
     #guide-apply-left {
+        clear: both;
         height: 475px;
-        width: 70%;
+        width: 100%;
         font-size: 80%;
-        float: left;
+
         border: 2px solid #ffbf00;
         box-sizing: border-box;
 
@@ -1385,8 +1386,9 @@ input[type="radio"] {
     }
 
     #guide-apply-right {
-        height: 475px;
-        width: 30%;
+        clear: both;
+        height: 175px;
+        width: 100%;
         float: right;
         border: 2px solid #ffbf00;
         box-sizing: border-box;
@@ -1419,8 +1421,9 @@ input[type="radio"] {
     }
 
     #guide-travel-left {
+        clear: both;
         height: 250px;
-        width: 70%;
+        width: 100%;
         float: left;
         padding-top: 30px;
         font-size: 110%;
@@ -1435,11 +1438,11 @@ input[type="radio"] {
     #guide-travel-heading-right {
         font-size: 130%;
         text-align: center;
-        margin-top: 100px;
+        margin-top: 50px;
     }
     #guide-travel-right {
-        height: 250px;
-        width: 30%;
+        height: 175px;
+        width: 100%;
         float: right;
         border: 2px solid #ffbf00;
         box-sizing: border-box;
@@ -1465,8 +1468,9 @@ input[type="radio"] {
     /* guide sleep left */
 
     #guide-sleep-left {
-        height: 350px;
-        width: 70%;
+        clear: both;
+        height: 250px;
+        width: 100%;
         float: left;
         border: 2px solid #ffbf00;
         box-sizing: border-box;
@@ -1482,8 +1486,9 @@ input[type="radio"] {
     /* guide sleep right */
 
     #guide-sleep-right {
-        height: 350px;
-        width: 30%;
+        clear: both;
+        height: 175px;
+        width: 100%;
         float: right;
         border: 2px solid #ffbf00;
         box-sizing: border-box;
@@ -1901,7 +1906,7 @@ input[type="radio"] {
         
     #guide-apply-left {
         height: 475px;
-        width: 70%;
+        width: 100%;
         font-size: 80%;
         float: left;
         border: 2px solid #ffbf00;
@@ -1934,8 +1939,8 @@ input[type="radio"] {
     }
 
     #guide-apply-right {
-        height: 475px;
-        width: 30%;
+        height: 175px;
+        width: 100%;
         float: right;
         border: 2px solid #ffbf00;
         box-sizing: border-box;
@@ -1969,7 +1974,7 @@ input[type="radio"] {
 
     #guide-travel-left {
         height: 250px;
-        width: 70%;
+        width: 100%;
         float: left;
         padding-top: 30px;
         font-size: 100%;
@@ -1987,8 +1992,8 @@ input[type="radio"] {
         margin-top: 50px;
     }
     #guide-travel-right {
-        height: 250px;
-        width: 30%;
+        height: 175px;
+        width: 100%;
         float: right;
         border: 2px solid #ffbf00;
         box-sizing: border-box;
@@ -2014,8 +2019,8 @@ input[type="radio"] {
     /* guide sleep left */
 
     #guide-sleep-left {
-        height: 350px;
-        width: 70%;
+        height: 250px;
+        width: 100%;
         float: left;
         font-size: 80%;
         border: 2px solid #ffbf00;
@@ -2032,8 +2037,8 @@ input[type="radio"] {
     /* guide sleep right */
 
     #guide-sleep-right {
-        height: 350px;
-        width: 30%;
+        height: 175px;
+        width: 100%;
         float: right;
         border: 2px solid #ffbf00;
         box-sizing: border-box;
