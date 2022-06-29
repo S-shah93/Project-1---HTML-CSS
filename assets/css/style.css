@@ -10,7 +10,7 @@
 /* headings and logo in body header */
 
 body {
-    font-family: overlock, lato;
+    font-family: "overlock", "lato";
     font-weight: 700;
     color: #927c00;
 }
@@ -1304,7 +1304,6 @@ input[type="radio"] {
         text-align: left;
         margin-left: 20px;
         margin-top: 15px;
-
     }
 
     #guide-apply-left ul {
