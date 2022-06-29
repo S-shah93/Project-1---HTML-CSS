@@ -11,7 +11,7 @@ May your journey be peaceful and your prayers answered <a href="https://s-shah93
 
 # Site Structure
 
-Mecca Travels website has 4 pages. The [home page](index.html) is the default loading page, [guide](guide.html), [gallery](gallery.html) and [sign up](signup.html) are accessable primarily from the navigation menu. There is another page to let the user know their form has been submitted[signed up](signedup.html).
+Mecca Travels website has 4 pages. The [home page](index.html) is the default loading page, [guide](guide.html), [gallery](gallery.html) and [sign up](signup.html) are accessable primarily from the navigation menu. There is another page (not on the navigation menu) to let the user know their form has been submitted[signed up](signedup.html).
 
 [Back to top](<#contents>)
 ## Design Choices
@@ -24,13 +24,13 @@ Mecca Travels website has 4 pages. The [home page](index.html) is the default lo
  * ### Colour Scheme
       The colour scheme eventually chosen is one based on White, Black and Gold. The colour blends well with the Kaaba and its surrounding colours in many of the images. White and Black, can give the impression of good and bad like the yin and yang sign for light and dark. The purpose of the journey for the traveller will be for good or bad either to say thanks to Allah(God) or to ask for forgivness.
 
-![Colour Palate image]()
+![Colour Palate image](assets/readme-images/color-scheme.PNG)
 
 
 [Back to top](<#contents>)
 # Features
 
-Mecca Travels site is set up to be informative and easy to use. It contains many features that the user would probably be familiar with, such as a navigation bar and sign up form. The overall feel of the website is intended to be ralaxed and ease the pressure of orginising a trip to Mecca.
+Mecca Travels website is set up to be informative and easy to use. It contains many features that the user would probably be familiar with, such as a navigation bar and sign up form. The overall feel of the website is intended to be ralaxed and ease the pressure of orginising a trip to Mecca.
 
 ## Existing Features  
   * ### Navigation Menu
@@ -38,13 +38,17 @@ Mecca Travels site is set up to be informative and easy to use. It contains many
     * Sited at the top of all the pages in the site, it is fully responsive and contains links to all the pages of the site to enable ease of navigation in one convenient location.
     * The logo is clickable with a link back to the home page for enhanced UX.
 
-![Navigation bar image]()
+![Navigation bar image](assets/readme-images/nav-bar.PNG)
 [Back to top](<#contents>)
 
-* ### Links
+* ### Links (icons)
 
-      * Located on the home page to help the user navigate to the relivent page for more detail. It was intended to make the homepage relatively plain to enable a focus on the purpose of the users reason for travelling.
-      * A responsively styled grid of simple information blocks to let the user know the key points when travelling. 
+  * Located on the home page to help the user navigate to the relivent page for more detail. It was intended to make the homepage relatively plain to locate a quick answer for the users question.
+  * A responsively styled grid of simple information blocks to let the user know the key points when travelling. 
+
+![HP icons](assets/readme-images/hp-icon-top.PNG)
+![HP icons](assets/readme-images/hp-icon-bottom.PNG)
+[Back to top](<#contents>)
 
 * ### Footer
     
