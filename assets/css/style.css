@@ -17,7 +17,7 @@ body {
 
 h1 {
     text-transform: uppercase;
-    font-family: Titan One, cursive;
+    font-family: "Titan One", "cursive";
     letter-spacing: 4px;
     color: rgba(0, 0, 0, 0.79);
 }
@@ -560,7 +560,6 @@ h1 {
     color: #ffbf00;
     margin-bottom: 20px;
     text-align: center;
-    font: titan one;
 }
 
 .text-input {
@@ -998,7 +997,6 @@ input[type="radio"] {
         color: #ffbf00;
         margin-bottom: 20px;
         text-align: center;
-        font: titan one;
     }
     
     .text-input {
@@ -1470,7 +1468,6 @@ input[type="radio"] {
         color: #ffbf00;
         margin-bottom: 20px;
         text-align: center;
-        font: titan one;
     }
         
     .text-input {
@@ -1934,7 +1931,6 @@ input[type="radio"] {
         color: #ffbf00;
         margin-bottom: 20px;
         text-align: center;
-        font: titan one;
     }
         
     .text-input {
