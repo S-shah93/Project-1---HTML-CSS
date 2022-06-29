@@ -4,3 +4,4 @@ Mecca Travel is an information guide website to help better inform travellers on
 
 May your journey be peaceful and your prayers answered <a href="https://s-shah93.github.io/Project-1---HTML-CSS/" target="_blank" rel="noopener">Mecca Travel</a>
 
+![Mecca Travel responsive design](assests/readme-images/responsive-desktop.png)
