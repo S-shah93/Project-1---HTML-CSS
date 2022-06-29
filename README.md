@@ -117,3 +117,47 @@ The site was deployed to GitHub pages. The steps to deploy a site are as follows
 ![GitHub pages deployed image]()
 
   The live link to the Github repository can be found here - https://s-shah93.github.io/Project-1---HTML-CSS/
+
+
+### **To fork the repository on GitHub**
+A copy of the GitHub Repository can be made by forking the GitHub account. This copy can be viewed and changes can be made to the copy without affecting the original repository. Take the following steps to fork the repository;
+1. Log in to **GitHub** and locate the [repository](https://github.com/S-shah93/Project-1---HTML-CSS).
+2. On the right hand side of the page inline with the repository name is a button called **'Fork'**, click on the button to create a copy of the original repository in your GitHub Account.
+
+![GitHub forking process image]()
+
+
+
+### **To create a local clone of this project**
+The method from cloning a project from GitHub is below:
+
+1. Under the repository’s name, click on the **code** tab.
+2. In the **Clone with HTTPS** section, click on the clipboard icon to copy the given URL.
+![Cloning image](assets/readme-images/clone.png)
+3. In your IDE of choice, open **Git Bash**.
+4. Change the current working directory to the location where you want the cloned directory to be made.
+5. Type **git clone**, and then paste the URL copied from GitHub.
+6. Press **enter** and the local clone will be created.
+
+[Back to top](<#contents>)
+
+# Credits
+### Content
+
+* The font came from [Google Fonts](https://fonts.google.com/).
+* The colour palate was compiled by [Colormind](http://colormind.io/).
+* The icons came from [Font Awesome](https://fontawesome.com/).
+* [Balsamiq](https://balsamiq.com/wireframes/) was used to create the wireframes.
+
+### Media
+* The photos all came from , []().
+* The photos were compressed using [Compressor](https://compressor.io/).
+
+[Back to top](<#contents>)
+
+# Acknowledgements
+The site was completed as a Portfolio 1 Project piece for the Full Stack Software Developer (e-Commerce) Diploma at the [Code Institute](https://codeinstitute.net/). As such I would like to thank my mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/), the Slack community, and all at the Code Institute for their help and support. Wawas Woods is a fictional company but it exists in everything but the business title. Currently it is more of a hobby!
+
+Ewan Colquhoun 2021.
+
+[Back to top](<#contents>)
