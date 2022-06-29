@@ -741,8 +741,229 @@ input[type="radio"] {
         text-decoration: none; 
         font-size: 70px;  
     }
-    /* Guide */
 
+    /* guide */
+
+    #guide-apply {
+        clear: both;
+        height: 375px;
+        width: 95%;
+        margin-left: 2.5%;
+        background-color:  black;
+        word-spacing: 2px;
+        font-size: 130%;
+    }
+    /* guide apply left */
+
+    #guide-apply-heading-left {
+        font-size: 130%;
+        text-align: center;
+        margin: 25px;
+        color: inherit;
+    }
+        
+    #guide-apply-left {
+        height: 375px;
+        width: 70%;
+        font-size: 80%;
+        float: left;
+        border: 2px solid #ffbf00;
+        box-sizing: border-box;
+
+    }
+
+    #guide-apply-left li {
+        margin-left: 70px;
+    }
+
+    #guide-apply-left p {
+        text-align: left;
+        margin-left: 20px;
+        margin-top: 15px;
+
+    }
+
+    #guide-apply-left ul {
+        margin-left: 10px; 
+    }
+
+    /* guide apply right */
+
+    #guide-apply-heading-right {
+        font-size: 140%;
+        text-align: center;
+        margin: 100px;
+    }
+
+    #guide-apply-right {
+        height: 375px;
+        width: 30%;
+        float: right;
+        border: 2px solid #ffbf00;
+        box-sizing: border-box;
+        background-color:  #292929;
+        text-align: center;
+        
+    }
+
+    #guide-apply-right a {
+        font-size: 130%;
+        color: #ffbf00;
+        text-decoration: none;
+    }
+
+    /* guide travel */
+
+    #guide-travel {
+        height: 110px;
+        width: 95%;
+        margin-left: 2.5%;
+        word-spacing: 2px;
+        font-size: 25px;
+    }
+
+    /* guide travel left */
+
+    #guide-travel-heading-left {
+        font-size: 200%;
+        text-align: center;
+    }
+
+    #guide-travel-left {
+        height: 250px;
+        width: 70%;
+        float: left;
+        padding-top: 30px;
+        font-size: 110%;
+        text-align: center;
+        border: 2px solid #ffbf00;
+        box-sizing: border-box;
+        background-color:  black;
+    }
+
+    /* guide travel right */
+
+    #guide-travel-heading-right {
+        font-size: 130%;
+        text-align: center;
+        margin-top: 100px;
+    }
+    #guide-travel-right {
+        height: 250px;
+        width: 30%;
+        float: right;
+        border: 2px solid #ffbf00;
+        box-sizing: border-box;
+        background-color:  #292929;
+    }
+
+    #guide-travel-right a {
+        color: #ffbf00;
+        text-decoration: none;
+    }
+
+    /* guide sleep */
+
+    #guide-sleep {
+        clear: both;
+        height: 250px;
+        width: 95%;
+        margin-left: 2.5%;
+        background-color:  black;
+        word-spacing: 2px;
+        font-size: 25px;
+    }
+    /* guide sleep left */
+
+    #guide-sleep-left {
+        height: 250px;
+        width: 70%;
+        float: left;
+        border: 2px solid #ffbf00;
+        box-sizing: border-box;
+        background-color:  black;
+    }
+
+    #guide-sleep-heading-left {
+        font-size: 130%;
+        text-align: center;
+        margin: 55px;
+    }
+
+    /* guide sleep right */
+
+    #guide-sleep-right {
+        height: 250px;
+        width: 30%;
+        float: right;
+        border: 2px solid #ffbf00;
+        box-sizing: border-box;
+        background-color:  #292929;
+        text-align: center;
+        font-size: 150%;
+    }
+
+    #guide-sleep-heading-right {
+        font-size: 110%;
+        text-align: center;
+        margin-top: 80px;
+    }
+
+    #guide-sleep-right a {
+        color: #ffbf00;
+        text-decoration: none;
+    }
+
+    /* guide hotels */
+
+    #guide-hotels {
+        height: 600px;
+        width: 100%;
+        background-color: #292929;
+    }
+
+
+    #guide-hotels div {
+        color: #fafafa;
+        height: 600px;
+        width: 50%;
+        
+        float: left;
+    
+        text-align: center;
+        padding-top: 40px;
+
+        border: 3px solid #ffbf00;
+        box-sizing: border-box;
+    }
+
+    #guide-hotels a {
+        color: #ffbf00;
+        text-decoration: none;
+    }
+
+    #guide-hotels p {
+        margin: 40px;
+    }
+    /* table guide page */
+
+    #table-top {
+    
+        width: 95%;
+        margin: 30px;
+    }
+
+
+    #table-top a {
+        font-size: 150%;
+        color: inherit;
+        text-decoration:none;
+    }
+    #table-top tr th {
+        font-size: 110%;
+        border: 0.5px solid gold;
+        padding: 4px;
+    }
 
     /* Gallery */
 
@@ -976,7 +1197,231 @@ input[type="radio"] {
         font-size: 70px;  
         padding: 15px;
     }
-      /* guide */
+    /* guide */
+
+    #guide-apply {
+        clear: both;
+        height: 475px;
+        width: 95%;
+        margin-left: 2.5%;
+        background-color:  black;
+        word-spacing: 2px;
+        font-size: 130%;
+    }
+    /* guide apply left */
+
+    #guide-apply-heading-left {
+        font-size: 150%;
+        text-align: center;
+        margin: 25px;
+        color: inherit;
+    }
+        
+    #guide-apply-left {
+        height: 475px;
+        width: 70%;
+        font-size: 80%;
+        float: left;
+        border: 2px solid #ffbf00;
+        box-sizing: border-box;
+
+    }
+
+    #guide-apply-left li {
+        margin-left: 70px;
+    }
+
+    #guide-apply-left p {
+        text-align: left;
+        margin-left: 20px;
+        margin-top: 15px;
+
+    }
+
+    #guide-apply-left ul {
+        margin-left: 10px; 
+    }
+
+    /* guide apply right */
+
+    #guide-apply-heading-right {
+        font-size: 140%;
+        text-align: center;
+        margin-top: 60px;
+        margin-left: 40px;
+    }
+
+    #guide-apply-right {
+        height: 475px;
+        width: 30%;
+        float: right;
+        border: 2px solid #ffbf00;
+        box-sizing: border-box;
+        background-color:  #292929;
+        text-align: center;
+        
+    }
+
+    #guide-apply-right a {
+        font-size: 130%;
+        color: #ffbf00;
+        text-decoration: none;
+    }
+
+    /* guide travel */
+
+    #guide-travel {
+        height: 110px;
+        width: 95%;
+        margin-left: 2.5%;
+        word-spacing: 2px;
+        font-size: 25px;
+    }
+
+    /* guide travel left */
+
+    #guide-travel-heading-left {
+        font-size: 200%;
+        text-align: center;
+    }
+
+    #guide-travel-left {
+        height: 250px;
+        width: 70%;
+        float: left;
+        padding-top: 30px;
+        font-size: 110%;
+        text-align: center;
+        border: 2px solid #ffbf00;
+        box-sizing: border-box;
+        background-color:  black;
+    }
+
+    /* guide travel right */
+
+    #guide-travel-heading-right {
+        font-size: 130%;
+        text-align: center;
+        margin-top: 100px;
+    }
+    #guide-travel-right {
+        height: 250px;
+        width: 30%;
+        float: right;
+        border: 2px solid #ffbf00;
+        box-sizing: border-box;
+        background-color:  #292929;
+    }
+
+    #guide-travel-right a {
+        color: #ffbf00;
+        text-decoration: none;
+    }
+
+    /* guide sleep */
+
+    #guide-sleep {
+        clear: both;
+        height: 250px;
+        width: 95%;
+        margin-left: 2.5%;
+        background-color:  black;
+        word-spacing: 2px;
+        font-size: 25px;
+    }
+    /* guide sleep left */
+
+    #guide-sleep-left {
+        height: 350px;
+        width: 70%;
+        float: left;
+        border: 2px solid #ffbf00;
+        box-sizing: border-box;
+        background-color:  black;
+    }
+
+    #guide-sleep-heading-left {
+        font-size: 130%;
+        text-align: center;
+        margin: 55px;
+    }
+
+    /* guide sleep right */
+
+    #guide-sleep-right {
+        height: 350px;
+        width: 30%;
+        float: right;
+        border: 2px solid #ffbf00;
+        box-sizing: border-box;
+        background-color:  #292929;
+        text-align: center;
+        font-size: 120%;
+    }
+
+    #guide-sleep-heading-right {
+        font-size: 110%;
+        text-align: center;
+        margin-top: 80px;
+    }
+
+    #guide-sleep-right a {
+        color: #ffbf00;
+        text-decoration: none;
+    }
+
+    /* guide hotels */
+
+    #guide-hotels {
+        clear: left;
+        height: 600px;
+        width: 100%;
+        background-color: #292929;
+    }
+
+
+    #guide-hotels div {
+        clear: both;
+        color: #fafafa;
+        height: 600px;
+        width: 100%;
+        margin-top: 1px;
+        
+    
+        text-align: center;
+        padding-top: 10px;
+
+        border: 3px solid #ffbf00;
+        box-sizing: border-box;
+    }
+
+    #guide-hotels a {
+        color: #ffbf00;
+        text-decoration: none;
+    }
+
+    #guide-hotels p {
+        margin: 10px;
+    }
+    /* table guide page */
+
+    #table-top {
+    
+        width: 95%;
+        margin: 10px;
+    }
+
+
+    #table-top a {
+        font-size: 150%;
+        color: inherit;
+        text-decoration:none;
+    }
+    #table-top tr th {
+        font-size: 110%;
+        border: 0.5px solid gold;
+        padding: 4px;
+    }
 
 
     /* gallery */
@@ -1207,6 +1652,231 @@ input[type="radio"] {
     }
 
     /* guide */
+
+    #guide-apply {
+        clear: both;
+        height: 475px;
+        width: 95%;
+        margin-left: 2.5%;
+        background-color:  black;
+        word-spacing: 2px;
+        font-size: 110%;
+    }
+    /* guide apply left */
+
+    #guide-apply-heading-left {
+        font-size: 150%;
+        text-align: center;
+        margin: 25px;
+        color: inherit;
+    }
+        
+    #guide-apply-left {
+        height: 475px;
+        width: 70%;
+        font-size: 80%;
+        float: left;
+        border: 2px solid #ffbf00;
+        box-sizing: border-box;
+
+    }
+
+    #guide-apply-left li {
+        margin-left: 70px;
+    }
+
+    #guide-apply-left p {
+        text-align: left;
+        margin-left: 20px;
+        margin-top: 15px;
+
+    }
+
+    #guide-apply-left ul {
+        margin-left: 10px; 
+    }
+
+    /* guide apply right */
+
+    #guide-apply-heading-right {
+        font-size: 110%;
+        text-align: center;
+        margin-top: 60px;
+        margin-left: 40px;
+    }
+
+    #guide-apply-right {
+        height: 475px;
+        width: 30%;
+        float: right;
+        border: 2px solid #ffbf00;
+        box-sizing: border-box;
+        background-color:  #292929;
+        text-align: center;
+        
+    }
+
+    #guide-apply-right a {
+        font-size: 130%;
+        color: #ffbf00;
+        text-decoration: none;
+    }
+
+    /* guide travel */
+
+    #guide-travel {
+        height: 110px;
+        width: 95%;
+        margin-left: 2.5%;
+        word-spacing: 2px;
+        font-size: 25px;
+    }
+
+    /* guide travel left */
+
+    #guide-travel-heading-left {
+        font-size: 150%;
+        text-align: center;
+    }
+
+    #guide-travel-left {
+        height: 250px;
+        width: 70%;
+        float: left;
+        padding-top: 30px;
+        font-size: 100%;
+        text-align: center;
+        border: 2px solid #ffbf00;
+        box-sizing: border-box;
+        background-color:  black;
+    }
+
+    /* guide travel right */
+
+    #guide-travel-heading-right {
+        font-size: 110%;
+        text-align: center;
+        margin-top: 50px;
+    }
+    #guide-travel-right {
+        height: 250px;
+        width: 30%;
+        float: right;
+        border: 2px solid #ffbf00;
+        box-sizing: border-box;
+        background-color:  #292929;
+    }
+
+    #guide-travel-right a {
+        color: #ffbf00;
+        text-decoration: none;
+    }
+
+    /* guide sleep */
+
+    #guide-sleep {
+        clear: both;
+        height: 250px;
+        width: 95%;
+        margin-left: 2.5%;
+        background-color:  black;
+        word-spacing: 2px;
+        font-size: 25px;
+    }
+    /* guide sleep left */
+
+    #guide-sleep-left {
+        height: 350px;
+        width: 70%;
+        float: left;
+        font-size: 80%;
+        border: 2px solid #ffbf00;
+        box-sizing: border-box;
+        background-color:  black;
+    }
+
+    #guide-sleep-heading-left {
+        font-size: 130%;
+        text-align: center;
+        margin: 55px;
+    }
+
+    /* guide sleep right */
+
+    #guide-sleep-right {
+        height: 350px;
+        width: 30%;
+        float: right;
+        border: 2px solid #ffbf00;
+        box-sizing: border-box;
+        background-color:  #292929;
+        text-align: center;
+        font-size: 120%;
+    }
+
+    #guide-sleep-heading-right {
+        font-size: 110%;
+        text-align: center;
+        margin-top: 80px;
+    }
+
+    #guide-sleep-right a {
+        color: #ffbf00;
+        text-decoration: none;
+    }
+
+    /* guide hotels */
+
+    #guide-hotels {
+        clear: left;
+        height: 600px;
+        width: 100%;
+        background-color: #292929;
+    }
+
+
+    #guide-hotels div {
+        clear: both;
+        color: #fafafa;
+        height: 600px;
+        width: 100%;
+        margin-top: 1px;
+        
+    
+        text-align: center;
+        padding-top: 10px;
+
+        border: 3px solid #ffbf00;
+        box-sizing: border-box;
+    }
+
+    #guide-hotels a {
+        color: #ffbf00;
+        text-decoration: none;
+    }
+
+    #guide-hotels p {
+        margin: 10px;
+    }
+    /* table guide page */
+
+    #table-top {
+    
+        width: 95%;
+        margin: 10px;
+    }
+
+
+    #table-top a {
+        font-size: 150%;
+        color: inherit;
+        text-decoration:none;
+    }
+    #table-top tr th {
+        font-size: 110%;
+        border: 0.5px solid gold;
+        padding: 4px;
+    }
 
     /* gallery */
 
