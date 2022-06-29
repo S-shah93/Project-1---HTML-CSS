@@ -40,6 +40,22 @@ May your journey be peaceful and your prayers answered <a href="https://s-shah93
 
 # Wireframes
 
+The wireframes for Mecca Travel were produced in Adobe Illistrator. There are frames for a full width display and a small mobile device. The final site varies slightly from the wireframes due to developments that occured during the creation process. 
+
+![Desktop wireframe image](assets/readme-images/homepage-WF-DT.png)
+![Desktop wireframe image](assets/readme-images/guidepage-WF-DT.png)
+![Desktop wireframe image](assets/readme-images/gallery-WF-DT.png)
+![Desktop wireframe image](assets/readme-images/signup-WF-DT.png)
+
+
+
+![Mobile wireframe image](assets//readme-images/homepage-WF-mobile.png) 
+![Mobile wireframe image](assets//readme-images/guide-WF-mobile.png) 
+![Mobile wireframe image](assets//readme-images/gallery-WF-mobile.png) 
+![Mobile wireframe image](assets//readme-images/signup-WF-mobile.png) 
+
+[Back to top](<#contents>)
+
 # Site Structure
 
 Mecca Travels website has 4 pages. The [home page](index.html) is the default loading page, [guide](guide.html), [gallery](gallery.html) and [sign up](signup.html) are accessable primarily from the navigation menu. There is another page (not on the navigation menu) to let the user know their form has been submitted[signed up](signedup.html).
@@ -186,7 +202,7 @@ The method from cloning a project from GitHub is below:
 * The font came from [Google Fonts](https://fonts.google.com/).
 * The colour palate was compiled by [Colormind](http://colormind.io/).
 * The icons came from [Font Awesome](https://fontawesome.com/).
-* [Balsamiq](https://balsamiq.com/wireframes/) was used to create the wireframes.
+* Adobe Illistrator was used to create the wireframes.
 
 ### Media
 * The photos for the gallery came from , [Thrillophilia](https://www.thrillophilia.com/).
