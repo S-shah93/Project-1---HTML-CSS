@@ -627,6 +627,26 @@ input[type="radio"] {
 
 @media screen and (max-width: 1200px) {
 
+    /* nav */
+
+    #logo {
+        line-height: 75px;
+    }
+    
+    #menu {
+        font-size: 140%;
+        letter-spacing: 4px;
+        line-height: 120px;
+        float: right;
+    }
+    
+    #menu li {
+        float: left;
+        margin-right: 30px;
+        list-style-type: none;
+    }
+    
+
     /* homepage */
 
     #hero-outer {
@@ -1533,6 +1553,27 @@ input[type="radio"] {
  /* For medium screens sizes from 390px wide and down */
 
     @media screen and (max-width: 390px){
+
+          /* nav */
+
+    #logo {
+        line-height: 75px;
+    }
+    
+    #menu {
+        font-size: 140%;
+        letter-spacing: 4px;
+        line-height: 120px;
+        float: right;
+    }
+    
+    #menu li {
+        
+        float: left;
+        margin-right: 60px;
+        list-style-type: none;
+    }
+    
         /* homepage */
 
     #hero-outer {
