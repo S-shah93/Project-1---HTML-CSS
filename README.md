@@ -134,7 +134,7 @@ Mecca Travels website is set up to be informative and easy to use. It contains m
 
 # Testing
 
-Please refer to [**_here_**](TESTING.md) for more information on testing Wawas Woods.
+Please refer to [**_here_**](Testing.md) for more information on testing Wawas Woods.
 
 [Back to top](<#contents>)
 
