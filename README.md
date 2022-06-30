@@ -38,6 +38,9 @@ May your journey be peaceful and your prayers answered <a href="https://s-shah93
     * [**Media**](<#media>)
 *  [**Acknowledgements**](<#acknowledgements>)
 
+
+# User Experience (UX)
+
 # Wireframes
 
 The wireframes for Mecca Travel were produced in Adobe Illistrator. There are frames for a full width display and a small mobile device. The final site varies slightly from the wireframes due to developments that occured during the creation process. 
@@ -46,8 +49,6 @@ The wireframes for Mecca Travel were produced in Adobe Illistrator. There are fr
 ![Desktop wireframe image](assets/readme-images/guidepage-WF-DT.png)
 ![Desktop wireframe image](assets/readme-images/gallery-WF-DT.png)
 ![Desktop wireframe image](assets/readme-images/signup-WF-DT.png)
-
-
 
 ![Mobile wireframe image](assets//readme-images/homepage-WF-mobile.png) 
 ![Mobile wireframe image](assets//readme-images/guide-WF-mobile.png) 
@@ -58,7 +59,7 @@ The wireframes for Mecca Travel were produced in Adobe Illistrator. There are fr
 
 # Site Structure
 
-Mecca Travels website has 4 pages. The [home page](index.html) is the default loading page, [guide](guide.html), [gallery](gallery.html) and [sign up](signup.html) are accessable primarily from the navigation menu. There is another page (not on the navigation menu) to let the user know their form has been submitted[signed up](signedup.html).
+Mecca Travels website has 4 pages. The [home page](index.html) is the default loading page, [guide](guide.html), [gallery](gallery.html) and [sign up](signup.html) are accessable primarily from the navigation menu. There is another page (not on the navigation menu) to let the user know their form has been submitted [signed up](signedup.html).
 
 [Back to top](<#contents>)
 
@@ -105,8 +106,7 @@ Mecca Travels website is set up to be informative and easy to use. It contains m
     * Contains sign up form page link. To enhance the UX the link opens in other tabs.
     * The sign up form link will encourage them to connect with Mecca Travel to stay up to date with the latest information when travelling to Mecca.
     * On the sign up form page the footer is designed to help the user navigate back to the sites pages for more information.
-
-    
+   
 ![Footer image](assets/readme-images/footer.PNG)
 
 [Back to top](<#contents>)
@@ -138,7 +138,6 @@ Mecca Travels website is set up to be informative and easy to use. It contains m
 ![Sign Up page image](assets/readme-images/signup-form.PNG)
 [Back to top](<#contents>)
 
-
 * ### Form Confirmation
     * This page confirms for the user that their details have been sent to Mecca Travel. For this project it validates the form only.
     * It provides a direct link back to the contact page as well as the normal navigation menu links in the header.
@@ -148,9 +147,15 @@ Mecca Travels website is set up to be informative and easy to use. It contains m
 
 [Back to top](<#contents>)
 
+## Future Features 
+
+* A live video of Mecca to give the user a real time look at the Kaaba and the people walking around it.
+    * This would incorporate in an enhanced gallery page.
+* Introduce comment section in the form to better understand the needs of the users.
+
 # Testing
 
-Please refer to [**_here_**](Testing.md) for more information on testing Wawas Woods.
+Please refer to [**_here_**](Testing.md) for more information on testing Mecca Travel.
 
 [Back to top](<#contents>)
 
@@ -171,15 +176,12 @@ The site was deployed to GitHub pages. The steps to deploy a site are as follows
 
   The live link to the Github repository can be found here - https://s-shah93.github.io/Project-1---HTML-CSS/
 
-
 ### **To fork the repository on GitHub**
 A copy of the GitHub Repository can be made by forking the GitHub account. This copy can be viewed and changes can be made to the copy without affecting the original repository. Take the following steps to fork the repository;
 1. Log in to **GitHub** and locate the [repository](https://github.com/S-shah93/Project-1---HTML-CSS).
 2. On the right hand side of the page inline with the repository name is a button called **'Fork'**, click on the button to create a copy of the original repository in your GitHub Account.
 
 ![GitHub forking process image](assets/readme-images/fork.PNG)
-
-
 
 ### **To create a local clone of this project**
 The method from cloning a project from GitHub is below:

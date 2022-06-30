@@ -1191,32 +1191,17 @@ input[type="radio"] {
 
     /* hero image and cover text*/
 
-#hero-image {
-    height: 580px;
-    width: 100%;
-    background: url("../images/hero\ image\ mecca.png") no-repeat center center;
-
- /* animates zoom effect on loading page */
-    animation-name: hero-zoom;
-    animation-duration: 5s;
-    animation-fill-mode: forwards;
-}
-
-/* creates the level of zoom for hero image */
-@keyframes hero-zoom {
-    from{
-        transform: scale(1);
+    #hero-image {
+        height: 580px;
+        width: 100%;
+        background: url("../images/Kaaba.webp") no-repeat center center;
     }
-    to{
-        transform: scale(1.1);
+
+
+    #hero-cover-text h2, h3 {
+        color: aliceblue;
+        text-align: center;
     }
-}
-
-
-#hero-cover-text h2, h3 {
-    color: aliceblue;
-    text-align: center;
-}
 
     #hero-outer {
         height: 600px;
@@ -1768,6 +1753,12 @@ input[type="radio"] {
     }
     
         /* homepage */
+
+    #hero-image {
+        height: 580px;
+        width: 100%;
+        background: url("../images/Kaaba.webp") no-repeat center center;
+    }
 
     #hero-outer {
         height: auto;
